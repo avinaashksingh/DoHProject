@@ -35,46 +35,46 @@ Configurations = {"Cloudflare DOH": {"mode":"doh", "resolver":"https://cloudflar
                   "Google DNS": {"mode":"dns", "resolver":"8.8.4.4"}}       
 domain = args.domain
 #Create the DNS message
-message = DNSRecord.question(domain)
-
+message = DNSRecord.question(domain, 'A')
+print(message)
 entries = {}
-#Make Queries
+
 for item in Configurations:
 
     if Configurations[item]["mode"] == 'dns':
-        try:
-	        #Enter code here to send the request message using UDP socket and get a reply back 
-            bytesToSend = message.pack()
-            UDPsocket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
-            start_time = time.time()
-            UDPsocket.sendto(bytesToSend, (Configurations[item]["resolver"], 53))
-            answers, server = UDPsocket.recvfrom(4096)
-            end_time = time.time()
-            UDPsocket.close()
-            entries[item] = {"Time": end_time - start_time, "Result": str(DNSRecord.parse(answers))}
-        except:
-	          entries[item] = {"Time": "----", "Result": "----"}
-
+        print(Configurations[item]["mode"])
+        print("\n", Configurations[item]["resolver"])
+        bytesToSend = message.pack() 
+        UDPsocket = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+        start_time = time.time()
+        print("\nStart Time, ", start_time)
+        sent = UDPsocket.sendto(bytesToSend, (Configurations[item]["resolver"], 53))
+        data, server = UDPsocket.recvfrom(4096)
+        end_time = time.time()
+        UDPsocket.close()
+        entries[item] = {"Time": end_time - start_time, "Result": str(DNSRecord.parse(data))}
+      
     if Configurations[item]["mode"] == "doh":
-        try:
-            params = {'dns':base64.urlsafe_b64encode(message.pack()).replace(b"=",b"")}
-            headers = {'scheme':'https',
+        print(Configurations[item]["mode"])
+        print("\n", Configurations[item]["resolver"])
+        params = {'dns':base64.urlsafe_b64encode(message.pack()).replace(b"=",b"")}
+        headers = {'scheme':'https',
                    'ct': 'application/dns-message',
                    'accept':'application/dns-message',
                    'cl':'33'
                    }
-            start_time = time.time()
-            answers = requests.get(Configurations[item]["resolver"],headers=headers,params=params)
-            end_time = time.time()
-            entries[item] = {"Time": end_time - start_time, "Result": str(DNSRecord.parse(answers.content))}
-        except:
-	          entries[item] = {"Time": "$$$$", "Result": "$$$$"}
-            
+        start_time = time.time()
+        print("\nStart Time, ", start_time)
+        answers = requests.get(Configurations[item]["resolver"],headers=headers,params=params)
+        end_time = time.time()
+        entries[item] = {"Time": end_time - start_time, "Result": str(DNSRecord.parse(answers.content))}
+
 df = pd.DataFrame(entries)
 #Store result in an Excel file
 if args.filepath:
     wb = load_workbook(args.filepath)
-    sheet1 = wb.create_sheet(domain,0)
+    if wb[domain] == 0:
+        sheet1 = wb.create_sheet(domain,0)
     active = wb[domain]
     for x in dataframe_to_rows(df):
         active.append(x)
@@ -85,9 +85,4 @@ else:
     active = wb[domain]
     for x in dataframe_to_rows(df):
         active.append(x)
-    wb.save("Entries.xlsx")
-
-
-
-
-
+    wb.save("triale.xlsx")
