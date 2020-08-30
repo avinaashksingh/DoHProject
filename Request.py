@@ -8,12 +8,9 @@ import time
 
 import pandas as pd
 
-from openpyxl import Workbook, load_workbook
-from openpyxl.utils.dataframe import dataframe_to_rows
 
 parser = argparse.ArgumentParser() # Initiate the parser
 parser.add_argument("--domain", "-d", help="Input the requested domain.")
-parser.add_argument("--filepath", "-f", help="Enetr the Microsoft excel file where the result has to be stored")
 
 if len(sys.argv) < 2:
     parser.print_usage()
@@ -28,6 +25,7 @@ Configurations = {"Cloudflare DOH": {"mode":"doh", "resolver":"https://cloudflar
                   "Quad9": {"mode":"doh", "resolver":"https://dns.quad9.net/dns-query"},
                   "Comcast": {"mode":"doh", "resolver":"https://doh.xfinity.com/dns-query"},
                   "Adguard": {"mode":"doh", "resolver":"https://dns.adguard.com/dns-query"},
+                  "Local": {"mode":"dns", "resolver":"109.246.13.15"},
                   "Cloudflare DNS": {"mode":"dns", "resolver":"1.1.1.1"},
                   "OpenDNS": {"mode":"dns", "resolver":"208.67.222.222"},
                   "Vodafone Idea India": {"mode":"dns", "resolver":"182.19.95.34"},
@@ -36,8 +34,7 @@ Configurations = {"Cloudflare DOH": {"mode":"doh", "resolver":"https://cloudflar
 domain = args.domain
 #Create the DNS message
 message = DNSRecord.question(domain)
-
-entries = {}
+data = pd.read_csv("Entries.csv", usecols = ["Server", "Domain", "Time", "Result"])
 #Make Queries
 for item in Configurations:
 
@@ -51,9 +48,11 @@ for item in Configurations:
             answers, server = UDPsocket.recvfrom(4096)
             end_time = time.time()
             UDPsocket.close()
-            entries[item] = {"Time": end_time - start_time, "Result": str(DNSRecord.parse(answers))}
+            s = pd.Series([item, domain, end_time - start_time, str(DNSRecord.parse(answers))], index = ["Server", "Domain", "Time", "Result"])
+            data = data.append(s, ignore_index=True)
         except:
-	          entries[item] = {"Time": "----", "Result": "----"}
+            s = pd.Series(["----", "----", "----", "----"], index = ["Server", "Domain", "Time", "Result"])
+            data = data.append(s, ignore_index=True)
 
     if Configurations[item]["mode"] == "doh":
         try:
@@ -66,26 +65,13 @@ for item in Configurations:
             start_time = time.time()
             answers = requests.get(Configurations[item]["resolver"],headers=headers,params=params)
             end_time = time.time()
-            entries[item] = {"Time": end_time - start_time, "Result": str(DNSRecord.parse(answers.content))}
+            s = pd.Series([item, domain, end_time - start_time, str(DNSRecord.parse(answers.content))], index = ["Server", "Domain", "Time", "Result"])
+            data = data.append(s, ignore_index=True)
         except:
-	          entries[item] = {"Time": "$$$$", "Result": "$$$$"}
+            s = pd.Series(["$$$$", "$$$$", "$$$$", "$$$$"], index = ["Server", "Domain", "Time", "Result"])
+            data = data.append(s, ignore_index=True)
             
-df = pd.DataFrame(entries)
-#Store result in an Excel file
-if args.filepath:
-    wb = load_workbook(args.filepath)
-    sheet1 = wb.create_sheet(domain,0)
-    active = wb[domain]
-    for x in dataframe_to_rows(df):
-        active.append(x)
-    wb.save(args.filepath)   
-else:
-    wb = Workbook()
-    sheet1 = wb.create_sheet(domain,0)
-    active = wb[domain]
-    for x in dataframe_to_rows(df):
-        active.append(x)
-    wb.save("Entries.xlsx")
+data.to_csv("Entries.csv")
 
 
 

@@ -1,0 +1,3233 @@
+,Domain,Resolver,Result
+0,facebook.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26297
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;facebook.com.                  IN      A
+;; ANSWER SECTION:
+facebook.com.           38      IN      A       31.13.77.35"
+1,facebook.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26297
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;facebook.com.                  IN      A
+;; ANSWER SECTION:
+facebook.com.           299     IN      A       31.13.77.35"
+2,facebook.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26297
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;facebook.com.                  IN      A
+;; ANSWER SECTION:
+facebook.com.           299     IN      A       31.13.77.35
+;; AUTHORITY SECTION:
+com.                    42512   IN      NS      i.gtld-servers.net.
+com.                    42512   IN      NS      k.gtld-servers.net.
+com.                    42512   IN      NS      c.gtld-servers.net.
+com.                    42512   IN      NS      h.gtld-servers.net.
+com.                    42512   IN      NS      a.gtld-servers.net.
+com.                    42512   IN      NS      g.gtld-servers.net.
+com.                    42512   IN      NS      d.gtld-servers.net.
+com.                    42512   IN      NS      m.gtld-servers.net.
+com.                    42512   IN      NS      b.gtld-servers.net.
+com.                    42512   IN      NS      e.gtld-servers.net.
+com.                    42512   IN      NS      l.gtld-servers.net.
+com.                    42512   IN      NS      j.gtld-servers.net.
+com.                    42512   IN      NS      f.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41159   IN      A       192.5.6.30
+a.gtld-servers.net.     41159   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41159   IN      A       192.33.14.30
+b.gtld-servers.net.     41159   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41159   IN      A       192.26.92.30
+c.gtld-servers.net.     41159   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41159   IN      A       192.31.80.30
+d.gtld-servers.net.     41159   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41159   IN      A       192.12.94.30
+e.gtld-servers.net.     41159   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     41159   IN      A       192.35.51.30"
+3,facebook.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26297
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;facebook.com.                  IN      A
+;; ANSWER SECTION:
+facebook.com.           298     IN      A       31.13.77.35
+;; AUTHORITY SECTION:
+com.                    42511   IN      NS      e.gtld-servers.net.
+com.                    42511   IN      NS      j.gtld-servers.net.
+com.                    42511   IN      NS      h.gtld-servers.net.
+com.                    42511   IN      NS      a.gtld-servers.net.
+com.                    42511   IN      NS      k.gtld-servers.net.
+com.                    42511   IN      NS      c.gtld-servers.net.
+com.                    42511   IN      NS      d.gtld-servers.net.
+com.                    42511   IN      NS      f.gtld-servers.net.
+com.                    42511   IN      NS      i.gtld-servers.net.
+com.                    42511   IN      NS      b.gtld-servers.net.
+com.                    42511   IN      NS      m.gtld-servers.net.
+com.                    42511   IN      NS      g.gtld-servers.net.
+com.                    42511   IN      NS      l.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41158   IN      A       192.5.6.30
+a.gtld-servers.net.     41158   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41158   IN      A       192.33.14.30
+b.gtld-servers.net.     41158   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41158   IN      A       192.26.92.30
+c.gtld-servers.net.     41158   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41158   IN      A       192.31.80.30
+d.gtld-servers.net.     41158   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41158   IN      A       192.12.94.30
+e.gtld-servers.net.     41158   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     41158   IN      A       192.35.51.30"
+4,facebook.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26297
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;facebook.com.                  IN      A
+;; ANSWER SECTION:
+facebook.com.           297     IN      A       31.13.77.35
+;; AUTHORITY SECTION:
+com.                    42510   IN      NS      k.gtld-servers.net.
+com.                    42510   IN      NS      i.gtld-servers.net.
+com.                    42510   IN      NS      g.gtld-servers.net.
+com.                    42510   IN      NS      e.gtld-servers.net.
+com.                    42510   IN      NS      m.gtld-servers.net.
+com.                    42510   IN      NS      j.gtld-servers.net.
+com.                    42510   IN      NS      a.gtld-servers.net.
+com.                    42510   IN      NS      b.gtld-servers.net.
+com.                    42510   IN      NS      d.gtld-servers.net.
+com.                    42510   IN      NS      c.gtld-servers.net.
+com.                    42510   IN      NS      l.gtld-servers.net.
+com.                    42510   IN      NS      h.gtld-servers.net.
+com.                    42510   IN      NS      f.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41157   IN      A       192.5.6.30
+a.gtld-servers.net.     41157   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41157   IN      A       192.33.14.30
+b.gtld-servers.net.     41157   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41157   IN      A       192.26.92.30
+c.gtld-servers.net.     41157   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41157   IN      A       192.31.80.30
+d.gtld-servers.net.     41157   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41157   IN      A       192.12.94.30
+e.gtld-servers.net.     41157   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     41157   IN      A       192.35.51.30"
+5,Instagram.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26519
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;Instagram.com.                 IN      A
+;; ANSWER SECTION:
+instagram.com.          48      IN      A       52.205.68.57
+instagram.com.          48      IN      A       107.21.50.66
+instagram.com.          48      IN      A       3.225.55.231
+instagram.com.          48      IN      A       34.194.60.215
+instagram.com.          48      IN      A       54.85.7.239
+instagram.com.          48      IN      A       35.153.11.244
+instagram.com.          48      IN      A       52.5.46.140
+instagram.com.          48      IN      A       52.1.230.205"
+6,Instagram.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26519
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;Instagram.com.                 IN      A
+;; ANSWER SECTION:
+Instagram.com.          40      IN      A       34.230.186.253
+Instagram.com.          40      IN      A       107.21.50.66
+Instagram.com.          40      IN      A       54.161.83.101
+Instagram.com.          40      IN      A       3.226.96.24
+Instagram.com.          40      IN      A       3.218.162.209
+Instagram.com.          40      IN      A       52.73.139.89
+Instagram.com.          40      IN      A       34.194.60.215
+Instagram.com.          40      IN      A       35.173.166.200"
+7,Instagram.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26519
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 13, ADDITIONAL: 5
+;; QUESTION SECTION:
+;Instagram.com.                 IN      A
+;; ANSWER SECTION:
+Instagram.com.          39      IN      A       3.226.96.24
+Instagram.com.          39      IN      A       54.161.83.101
+Instagram.com.          39      IN      A       35.173.166.200
+Instagram.com.          39      IN      A       3.218.162.209
+Instagram.com.          39      IN      A       34.194.60.215
+Instagram.com.          39      IN      A       107.21.50.66
+Instagram.com.          39      IN      A       52.73.139.89
+Instagram.com.          39      IN      A       34.230.186.253
+;; AUTHORITY SECTION:
+com.                    42505   IN      NS      l.gtld-servers.net.
+com.                    42505   IN      NS      g.gtld-servers.net.
+com.                    42505   IN      NS      c.gtld-servers.net.
+com.                    42505   IN      NS      e.gtld-servers.net.
+com.                    42505   IN      NS      i.gtld-servers.net.
+com.                    42505   IN      NS      d.gtld-servers.net.
+com.                    42505   IN      NS      h.gtld-servers.net.
+com.                    42505   IN      NS      f.gtld-servers.net.
+com.                    42505   IN      NS      k.gtld-servers.net.
+com.                    42505   IN      NS      a.gtld-servers.net.
+com.                    42505   IN      NS      m.gtld-servers.net.
+com.                    42505   IN      NS      j.gtld-servers.net.
+com.                    42505   IN      NS      b.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41152   IN      A       192.5.6.30
+a.gtld-servers.net.     41152   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41152   IN      A       192.33.14.30
+b.gtld-servers.net.     41152   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41152   IN      A       192.26.92.30"
+8,Instagram.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26519
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 13, ADDITIONAL: 5
+;; QUESTION SECTION:
+;Instagram.com.                 IN      A
+;; ANSWER SECTION:
+instagram.com.          39      IN      A       54.161.83.101
+instagram.com.          39      IN      A       107.21.50.66
+instagram.com.          39      IN      A       34.194.60.215
+instagram.com.          39      IN      A       52.73.139.89
+instagram.com.          39      IN      A       34.230.186.253
+instagram.com.          39      IN      A       3.226.96.24
+instagram.com.          39      IN      A       3.218.162.209
+instagram.com.          39      IN      A       35.173.166.200
+;; AUTHORITY SECTION:
+com.                    42505   IN      NS      k.gtld-servers.net.
+com.                    42505   IN      NS      d.gtld-servers.net.
+com.                    42505   IN      NS      c.gtld-servers.net.
+com.                    42505   IN      NS      m.gtld-servers.net.
+com.                    42505   IN      NS      e.gtld-servers.net.
+com.                    42505   IN      NS      i.gtld-servers.net.
+com.                    42505   IN      NS      b.gtld-servers.net.
+com.                    42505   IN      NS      f.gtld-servers.net.
+com.                    42505   IN      NS      j.gtld-servers.net.
+com.                    42505   IN      NS      l.gtld-servers.net.
+com.                    42505   IN      NS      h.gtld-servers.net.
+com.                    42505   IN      NS      a.gtld-servers.net.
+com.                    42505   IN      NS      g.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41152   IN      A       192.5.6.30
+a.gtld-servers.net.     41152   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41152   IN      A       192.33.14.30
+b.gtld-servers.net.     41152   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41152   IN      A       192.26.92.30"
+9,Instagram.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26519
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 13, ADDITIONAL: 5
+;; QUESTION SECTION:
+;Instagram.com.                 IN      A
+;; ANSWER SECTION:
+instagram.com.          38      IN      A       35.173.166.200
+instagram.com.          38      IN      A       34.194.60.215
+instagram.com.          38      IN      A       34.230.186.253
+instagram.com.          38      IN      A       54.161.83.101
+instagram.com.          38      IN      A       3.226.96.24
+instagram.com.          38      IN      A       3.218.162.209
+instagram.com.          38      IN      A       52.73.139.89
+instagram.com.          38      IN      A       107.21.50.66
+;; AUTHORITY SECTION:
+com.                    42504   IN      NS      k.gtld-servers.net.
+com.                    42504   IN      NS      j.gtld-servers.net.
+com.                    42504   IN      NS      b.gtld-servers.net.
+com.                    42504   IN      NS      i.gtld-servers.net.
+com.                    42504   IN      NS      g.gtld-servers.net.
+com.                    42504   IN      NS      c.gtld-servers.net.
+com.                    42504   IN      NS      h.gtld-servers.net.
+com.                    42504   IN      NS      f.gtld-servers.net.
+com.                    42504   IN      NS      e.gtld-servers.net.
+com.                    42504   IN      NS      d.gtld-servers.net.
+com.                    42504   IN      NS      m.gtld-servers.net.
+com.                    42504   IN      NS      l.gtld-servers.net.
+com.                    42504   IN      NS      a.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41151   IN      A       192.5.6.30
+a.gtld-servers.net.     41151   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41151   IN      A       192.33.14.30
+b.gtld-servers.net.     41151   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41151   IN      A       192.26.92.30"
+10,tiktok.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15689
+;; flags: qr rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;tiktok.com.                    IN      A
+;; ANSWER SECTION:
+tiktok.com.             4       IN      A       161.117.112.172
+tiktok.com.             4       IN      A       161.117.70.24
+tiktok.com.             4       IN      A       161.117.111.4
+tiktok.com.             4       IN      A       161.117.96.158
+tiktok.com.             4       IN      A       161.117.98.223
+tiktok.com.             4       IN      A       161.117.71.12
+tiktok.com.             4       IN      A       161.117.98.196"
+11,tiktok.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15689
+;; flags: qr rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;tiktok.com.                    IN      A
+;; ANSWER SECTION:
+tiktok.com.             299     IN      A       161.117.70.24
+tiktok.com.             299     IN      A       161.117.96.158
+tiktok.com.             299     IN      A       161.117.71.12
+tiktok.com.             299     IN      A       161.117.111.4
+tiktok.com.             299     IN      A       161.117.112.172
+tiktok.com.             299     IN      A       161.117.98.196
+tiktok.com.             299     IN      A       161.117.98.223"
+12,tiktok.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15689
+;; flags: qr rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 13, ADDITIONAL: 7
+;; QUESTION SECTION:
+;tiktok.com.                    IN      A
+;; ANSWER SECTION:
+tiktok.com.             299     IN      A       161.117.98.223
+tiktok.com.             299     IN      A       161.117.112.172
+tiktok.com.             299     IN      A       161.117.111.4
+tiktok.com.             299     IN      A       161.117.96.158
+tiktok.com.             299     IN      A       161.117.98.196
+tiktok.com.             299     IN      A       161.117.71.12
+tiktok.com.             299     IN      A       161.117.70.24
+;; AUTHORITY SECTION:
+com.                    42501   IN      NS      i.gtld-servers.net.
+com.                    42501   IN      NS      c.gtld-servers.net.
+com.                    42501   IN      NS      j.gtld-servers.net.
+com.                    42501   IN      NS      l.gtld-servers.net.
+com.                    42501   IN      NS      d.gtld-servers.net.
+com.                    42501   IN      NS      h.gtld-servers.net.
+com.                    42501   IN      NS      m.gtld-servers.net.
+com.                    42501   IN      NS      b.gtld-servers.net.
+com.                    42501   IN      NS      a.gtld-servers.net.
+com.                    42501   IN      NS      g.gtld-servers.net.
+com.                    42501   IN      NS      e.gtld-servers.net.
+com.                    42501   IN      NS      f.gtld-servers.net.
+com.                    42501   IN      NS      k.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41148   IN      A       192.5.6.30
+a.gtld-servers.net.     41148   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41148   IN      A       192.33.14.30
+b.gtld-servers.net.     41148   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41148   IN      A       192.26.92.30
+c.gtld-servers.net.     41148   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41148   IN      A       192.31.80.30"
+13,tiktok.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15689
+;; flags: qr rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 13, ADDITIONAL: 7
+;; QUESTION SECTION:
+;tiktok.com.                    IN      A
+;; ANSWER SECTION:
+tiktok.com.             298     IN      A       161.117.98.196
+tiktok.com.             298     IN      A       161.117.98.223
+tiktok.com.             298     IN      A       161.117.70.24
+tiktok.com.             298     IN      A       161.117.96.158
+tiktok.com.             298     IN      A       161.117.111.4
+tiktok.com.             298     IN      A       161.117.112.172
+tiktok.com.             298     IN      A       161.117.71.12
+;; AUTHORITY SECTION:
+com.                    42500   IN      NS      e.gtld-servers.net.
+com.                    42500   IN      NS      a.gtld-servers.net.
+com.                    42500   IN      NS      l.gtld-servers.net.
+com.                    42500   IN      NS      m.gtld-servers.net.
+com.                    42500   IN      NS      j.gtld-servers.net.
+com.                    42500   IN      NS      i.gtld-servers.net.
+com.                    42500   IN      NS      c.gtld-servers.net.
+com.                    42500   IN      NS      d.gtld-servers.net.
+com.                    42500   IN      NS      b.gtld-servers.net.
+com.                    42500   IN      NS      g.gtld-servers.net.
+com.                    42500   IN      NS      h.gtld-servers.net.
+com.                    42500   IN      NS      k.gtld-servers.net.
+com.                    42500   IN      NS      f.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41147   IN      A       192.5.6.30
+a.gtld-servers.net.     41147   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41147   IN      A       192.33.14.30
+b.gtld-servers.net.     41147   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41147   IN      A       192.26.92.30
+c.gtld-servers.net.     41147   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41147   IN      A       192.31.80.30"
+14,tiktok.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15689
+;; flags: qr rd ra; QUERY: 1, ANSWER: 7, AUTHORITY: 13, ADDITIONAL: 7
+;; QUESTION SECTION:
+;tiktok.com.                    IN      A
+;; ANSWER SECTION:
+tiktok.com.             298     IN      A       161.117.98.223
+tiktok.com.             298     IN      A       161.117.112.172
+tiktok.com.             298     IN      A       161.117.96.158
+tiktok.com.             298     IN      A       161.117.111.4
+tiktok.com.             298     IN      A       161.117.70.24
+tiktok.com.             298     IN      A       161.117.98.196
+tiktok.com.             298     IN      A       161.117.71.12
+;; AUTHORITY SECTION:
+com.                    42500   IN      NS      e.gtld-servers.net.
+com.                    42500   IN      NS      a.gtld-servers.net.
+com.                    42500   IN      NS      k.gtld-servers.net.
+com.                    42500   IN      NS      b.gtld-servers.net.
+com.                    42500   IN      NS      i.gtld-servers.net.
+com.                    42500   IN      NS      l.gtld-servers.net.
+com.                    42500   IN      NS      f.gtld-servers.net.
+com.                    42500   IN      NS      h.gtld-servers.net.
+com.                    42500   IN      NS      c.gtld-servers.net.
+com.                    42500   IN      NS      g.gtld-servers.net.
+com.                    42500   IN      NS      m.gtld-servers.net.
+com.                    42500   IN      NS      d.gtld-servers.net.
+com.                    42500   IN      NS      j.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41147   IN      A       192.5.6.30
+a.gtld-servers.net.     41147   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41147   IN      A       192.33.14.30
+b.gtld-servers.net.     41147   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41147   IN      A       192.26.92.30
+c.gtld-servers.net.     41147   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41147   IN      A       192.31.80.30"
+15,twitter.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;twitter.com.                   IN      A
+;; ANSWER SECTION:
+twitter.com.            1302    IN      A       104.244.42.65"
+16,twitter.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;twitter.com.                   IN      A
+;; ANSWER SECTION:
+twitter.com.            1405    IN      A       104.244.42.129
+twitter.com.            1405    IN      A       104.244.42.1"
+17,twitter.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;twitter.com.                   IN      A
+;; ANSWER SECTION:
+twitter.com.            929     IN      A       104.244.42.129
+twitter.com.            929     IN      A       104.244.42.1
+;; AUTHORITY SECTION:
+com.                    42493   IN      NS      b.gtld-servers.net.
+com.                    42493   IN      NS      j.gtld-servers.net.
+com.                    42493   IN      NS      d.gtld-servers.net.
+com.                    42493   IN      NS      e.gtld-servers.net.
+com.                    42493   IN      NS      k.gtld-servers.net.
+com.                    42493   IN      NS      g.gtld-servers.net.
+com.                    42493   IN      NS      f.gtld-servers.net.
+com.                    42493   IN      NS      m.gtld-servers.net.
+com.                    42493   IN      NS      h.gtld-servers.net.
+com.                    42493   IN      NS      a.gtld-servers.net.
+com.                    42493   IN      NS      l.gtld-servers.net.
+com.                    42493   IN      NS      c.gtld-servers.net.
+com.                    42493   IN      NS      i.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41140   IN      A       192.5.6.30
+a.gtld-servers.net.     41140   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41140   IN      A       192.33.14.30
+b.gtld-servers.net.     41140   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41140   IN      A       192.26.92.30
+c.gtld-servers.net.     41140   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41140   IN      A       192.31.80.30
+d.gtld-servers.net.     41140   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41140   IN      A       192.12.94.30
+e.gtld-servers.net.     41140   IN      AAAA    2001:502:1ca1::30"
+18,twitter.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;twitter.com.                   IN      A
+;; ANSWER SECTION:
+twitter.com.            928     IN      A       104.244.42.1
+twitter.com.            928     IN      A       104.244.42.129
+;; AUTHORITY SECTION:
+com.                    42492   IN      NS      i.gtld-servers.net.
+com.                    42492   IN      NS      f.gtld-servers.net.
+com.                    42492   IN      NS      a.gtld-servers.net.
+com.                    42492   IN      NS      m.gtld-servers.net.
+com.                    42492   IN      NS      g.gtld-servers.net.
+com.                    42492   IN      NS      c.gtld-servers.net.
+com.                    42492   IN      NS      l.gtld-servers.net.
+com.                    42492   IN      NS      d.gtld-servers.net.
+com.                    42492   IN      NS      h.gtld-servers.net.
+com.                    42492   IN      NS      k.gtld-servers.net.
+com.                    42492   IN      NS      b.gtld-servers.net.
+com.                    42492   IN      NS      e.gtld-servers.net.
+com.                    42492   IN      NS      j.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41139   IN      A       192.5.6.30
+a.gtld-servers.net.     41139   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41139   IN      A       192.33.14.30
+b.gtld-servers.net.     41139   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41139   IN      A       192.26.92.30
+c.gtld-servers.net.     41139   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41139   IN      A       192.31.80.30
+d.gtld-servers.net.     41139   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41139   IN      A       192.12.94.30
+e.gtld-servers.net.     41139   IN      AAAA    2001:502:1ca1::30"
+19,twitter.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 48793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;twitter.com.                   IN      A
+;; ANSWER SECTION:
+twitter.com.            928     IN      A       104.244.42.1
+twitter.com.            928     IN      A       104.244.42.129
+;; AUTHORITY SECTION:
+com.                    42492   IN      NS      l.gtld-servers.net.
+com.                    42492   IN      NS      c.gtld-servers.net.
+com.                    42492   IN      NS      i.gtld-servers.net.
+com.                    42492   IN      NS      g.gtld-servers.net.
+com.                    42492   IN      NS      h.gtld-servers.net.
+com.                    42492   IN      NS      m.gtld-servers.net.
+com.                    42492   IN      NS      k.gtld-servers.net.
+com.                    42492   IN      NS      b.gtld-servers.net.
+com.                    42492   IN      NS      a.gtld-servers.net.
+com.                    42492   IN      NS      e.gtld-servers.net.
+com.                    42492   IN      NS      j.gtld-servers.net.
+com.                    42492   IN      NS      f.gtld-servers.net.
+com.                    42492   IN      NS      d.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41139   IN      A       192.5.6.30
+a.gtld-servers.net.     41139   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41139   IN      A       192.33.14.30
+b.gtld-servers.net.     41139   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41139   IN      A       192.26.92.30
+c.gtld-servers.net.     41139   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41139   IN      A       192.31.80.30
+d.gtld-servers.net.     41139   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41139   IN      A       192.12.94.30
+e.gtld-servers.net.     41139   IN      AAAA    2001:502:1ca1::30"
+20,Wechat.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25966
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;Wechat.com.                    IN      A
+;; ANSWER SECTION:
+wechat.com.             167     IN      A       203.205.251.178
+wechat.com.             167     IN      A       203.205.251.176"
+21,Wechat.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25966
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;Wechat.com.                    IN      A
+;; ANSWER SECTION:
+Wechat.com.             299     IN      A       203.205.251.178
+Wechat.com.             299     IN      A       203.205.251.176"
+22,Wechat.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25966
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;Wechat.com.                    IN      A
+;; ANSWER SECTION:
+Wechat.com.             299     IN      A       203.205.251.178
+Wechat.com.             299     IN      A       203.205.251.176
+;; AUTHORITY SECTION:
+com.                    42485   IN      NS      i.gtld-servers.net.
+com.                    42485   IN      NS      d.gtld-servers.net.
+com.                    42485   IN      NS      j.gtld-servers.net.
+com.                    42485   IN      NS      e.gtld-servers.net.
+com.                    42485   IN      NS      f.gtld-servers.net.
+com.                    42485   IN      NS      k.gtld-servers.net.
+com.                    42485   IN      NS      l.gtld-servers.net.
+com.                    42485   IN      NS      m.gtld-servers.net.
+com.                    42485   IN      NS      h.gtld-servers.net.
+com.                    42485   IN      NS      c.gtld-servers.net.
+com.                    42485   IN      NS      a.gtld-servers.net.
+com.                    42485   IN      NS      g.gtld-servers.net.
+com.                    42485   IN      NS      b.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41132   IN      A       192.5.6.30
+a.gtld-servers.net.     41132   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41132   IN      A       192.33.14.30
+b.gtld-servers.net.     41132   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41132   IN      A       192.26.92.30
+c.gtld-servers.net.     41132   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41132   IN      A       192.31.80.30
+d.gtld-servers.net.     41132   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41132   IN      A       192.12.94.30
+e.gtld-servers.net.     41132   IN      AAAA    2001:502:1ca1::30"
+23,Wechat.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25966
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;Wechat.com.                    IN      A
+;; ANSWER SECTION:
+Wechat.com.             299     IN      A       203.205.251.178
+Wechat.com.             299     IN      A       203.205.251.176
+;; AUTHORITY SECTION:
+com.                    42485   IN      NS      e.gtld-servers.net.
+com.                    42485   IN      NS      f.gtld-servers.net.
+com.                    42485   IN      NS      l.gtld-servers.net.
+com.                    42485   IN      NS      d.gtld-servers.net.
+com.                    42485   IN      NS      a.gtld-servers.net.
+com.                    42485   IN      NS      m.gtld-servers.net.
+com.                    42485   IN      NS      c.gtld-servers.net.
+com.                    42485   IN      NS      i.gtld-servers.net.
+com.                    42485   IN      NS      b.gtld-servers.net.
+com.                    42485   IN      NS      k.gtld-servers.net.
+com.                    42485   IN      NS      g.gtld-servers.net.
+com.                    42485   IN      NS      h.gtld-servers.net.
+com.                    42485   IN      NS      j.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41132   IN      A       192.5.6.30
+a.gtld-servers.net.     41132   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41132   IN      A       192.33.14.30
+b.gtld-servers.net.     41132   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41132   IN      A       192.26.92.30
+c.gtld-servers.net.     41132   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41132   IN      A       192.31.80.30
+d.gtld-servers.net.     41132   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41132   IN      A       192.12.94.30
+e.gtld-servers.net.     41132   IN      AAAA    2001:502:1ca1::30"
+24,Wechat.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 25966
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;Wechat.com.                    IN      A
+;; ANSWER SECTION:
+Wechat.com.             298     IN      A       203.205.251.178
+Wechat.com.             298     IN      A       203.205.251.176
+;; AUTHORITY SECTION:
+com.                    42484   IN      NS      a.gtld-servers.net.
+com.                    42484   IN      NS      f.gtld-servers.net.
+com.                    42484   IN      NS      h.gtld-servers.net.
+com.                    42484   IN      NS      m.gtld-servers.net.
+com.                    42484   IN      NS      g.gtld-servers.net.
+com.                    42484   IN      NS      b.gtld-servers.net.
+com.                    42484   IN      NS      k.gtld-servers.net.
+com.                    42484   IN      NS      d.gtld-servers.net.
+com.                    42484   IN      NS      l.gtld-servers.net.
+com.                    42484   IN      NS      j.gtld-servers.net.
+com.                    42484   IN      NS      i.gtld-servers.net.
+com.                    42484   IN      NS      c.gtld-servers.net.
+com.                    42484   IN      NS      e.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41131   IN      A       192.5.6.30
+a.gtld-servers.net.     41131   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41131   IN      A       192.33.14.30
+b.gtld-servers.net.     41131   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41131   IN      A       192.26.92.30
+c.gtld-servers.net.     41131   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41131   IN      A       192.31.80.30
+d.gtld-servers.net.     41131   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41131   IN      A       192.12.94.30
+e.gtld-servers.net.     41131   IN      AAAA    2001:502:1ca1::30"
+25,https://www.bbc.co.uk/news,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11554
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.bbc.co.uk/news.    IN      A
+;; AUTHORITY SECTION:
+.                       86400   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+26,https://www.bbc.co.uk/news,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11554
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.bbc.co.uk/news.    IN      A
+;; AUTHORITY SECTION:
+.                       86396   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+27,https://www.bbc.co.uk/news,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11554
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.bbc.co.uk/news.    IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+28,https://www.bbc.co.uk/news,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11554
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.bbc.co.uk/news.    IN      A
+;; AUTHORITY SECTION:
+.                       10798   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+29,https://www.bbc.co.uk/news,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 11554
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.bbc.co.uk/news.    IN      A
+;; AUTHORITY SECTION:
+.                       10796   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+30,https://www.telegraph.co.uk/news/,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17009
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.telegraph.co.uk/news/. IN      A
+;; AUTHORITY SECTION:
+.                       86400   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+31,https://www.telegraph.co.uk/news/,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17009
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.telegraph.co.uk/news/. IN      A
+;; AUTHORITY SECTION:
+.                       86398   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+32,https://www.telegraph.co.uk/news/,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17009
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.telegraph.co.uk/news/. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+33,https://www.telegraph.co.uk/news/,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17009
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.telegraph.co.uk/news/. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+34,https://www.telegraph.co.uk/news/,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 17009
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.telegraph.co.uk/news/. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+35,https://www.thehindu.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1196
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.thehindu.com.      IN      A"
+36,https://www.thehindu.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1196
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.thehindu.com.      IN      A"
+37,https://www.thehindu.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1196
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.thehindu.com.      IN      A"
+38,https://www.thehindu.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1196
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.thehindu.com.      IN      A"
+39,https://www.thehindu.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 1196
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.thehindu.com.      IN      A"
+40,https://www.dailymail.co.uk/news,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.dailymail.co.uk/news. IN      A
+;; AUTHORITY SECTION:
+.                       86400   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+41,https://www.dailymail.co.uk/news,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.dailymail.co.uk/news. IN      A
+;; AUTHORITY SECTION:
+.                       86395   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+42,https://www.dailymail.co.uk/news,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.dailymail.co.uk/news. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+43,https://www.dailymail.co.uk/news,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.dailymail.co.uk/news. IN      A
+;; AUTHORITY SECTION:
+.                       10799   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+44,https://www.dailymail.co.uk/news,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 44793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.dailymail.co.uk/news. IN      A
+;; AUTHORITY SECTION:
+.                       10799   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+45,https://www.google.com/search?q=Covid-19,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40465
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Covid-19. IN      A
+;; AUTHORITY SECTION:
+.                       86400   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+46,https://www.google.com/search?q=Covid-19,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40465
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Covid-19. IN      A
+;; AUTHORITY SECTION:
+.                       86386   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+47,https://www.google.com/search?q=Covid-19,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40465
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Covid-19. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+48,https://www.google.com/search?q=Covid-19,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40465
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Covid-19. IN      A
+;; AUTHORITY SECTION:
+.                       10799   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+49,https://www.google.com/search?q=Covid-19,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 40465
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Covid-19. IN      A
+;; AUTHORITY SECTION:
+.                       10798   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+50,https://www.google.com/search?q=Apple Sweatshops,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19405
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Apple\032Sweatshops. IN      A
+;; AUTHORITY SECTION:
+.                       86400   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+51,https://www.google.com/search?q=Apple Sweatshops,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19405
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Apple\032Sweatshops. IN      A
+;; AUTHORITY SECTION:
+.                       86393   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+52,https://www.google.com/search?q=Apple Sweatshops,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19405
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Apple\032Sweatshops. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+53,https://www.google.com/search?q=Apple Sweatshops,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19405
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Apple\032Sweatshops. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+54,https://www.google.com/search?q=Apple Sweatshops,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19405
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Apple\032Sweatshops. IN      A
+;; AUTHORITY SECTION:
+.                       10799   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+55,https://www.google.com/search?q=Mica Child Labour,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 29794
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Mica\032Child\032Labour. IN      A
+;; AUTHORITY SECTION:
+.                       86400   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+56,https://www.google.com/search?q=Mica Child Labour,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 29794
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Mica\032Child\032Labour. IN      A
+;; AUTHORITY SECTION:
+.                       86397   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+57,https://www.google.com/search?q=Mica Child Labour,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 29794
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Mica\032Child\032Labour. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+58,https://www.google.com/search?q=Mica Child Labour,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 29794
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Mica\032Child\032Labour. IN      A
+;; AUTHORITY SECTION:
+.                       10799   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+59,https://www.google.com/search?q=Mica Child Labour,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 29794
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Mica\032Child\032Labour. IN      A
+;; AUTHORITY SECTION:
+.                       10798   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+60,https://www.google.com/search?q=Garment Sweatshops,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19390
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Garment\032Sweatshops. IN      A
+;; AUTHORITY SECTION:
+.                       86400   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020081300 1800 900 604800 86400"
+61,https://www.google.com/search?q=Garment Sweatshops,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19390
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Garment\032Sweatshops. IN      A
+;; AUTHORITY SECTION:
+.                       86397   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+62,https://www.google.com/search?q=Garment Sweatshops,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19390
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Garment\032Sweatshops. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+63,https://www.google.com/search?q=Garment Sweatshops,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19390
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Garment\032Sweatshops. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+64,https://www.google.com/search?q=Garment Sweatshops,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 19390
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Garment\032Sweatshops. IN      A
+;; AUTHORITY SECTION:
+.                       10799   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+65,https://www.google.com/search?q=Leather Pollution Kanpur,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 39104
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Leather\032Pollution\032Kanpur. IN      A
+;; AUTHORITY SECTION:
+.                       86400   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+66,https://www.google.com/search?q=Leather Pollution Kanpur,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 39104
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Leather\032Pollution\032Kanpur. IN      A
+;; AUTHORITY SECTION:
+.                       86395   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+67,https://www.google.com/search?q=Leather Pollution Kanpur,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 39104
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Leather\032Pollution\032Kanpur. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+68,https://www.google.com/search?q=Leather Pollution Kanpur,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 39104
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Leather\032Pollution\032Kanpur. IN      A
+;; AUTHORITY SECTION:
+.                       10799   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+69,https://www.google.com/search?q=Leather Pollution Kanpur,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 39104
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.google.com/search?q=Leather\032Pollution\032Kanpur. IN      A
+;; AUTHORITY SECTION:
+.                       10799   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+70,Netflix.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37490
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;Netflix.com.                   IN      A
+;; ANSWER SECTION:
+netflix.com.            8       IN      A       52.48.35.66
+netflix.com.            8       IN      A       52.214.145.233
+netflix.com.            8       IN      A       34.253.1.11
+netflix.com.            8       IN      A       52.213.155.117
+netflix.com.            8       IN      A       52.213.214.244
+netflix.com.            8       IN      A       52.210.202.149
+netflix.com.            8       IN      A       34.251.181.150
+netflix.com.            8       IN      A       52.19.113.209"
+71,Netflix.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37490
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;Netflix.com.                   IN      A
+;; ANSWER SECTION:
+Netflix.com.            59      IN      A       35.161.95.70
+Netflix.com.            59      IN      A       54.68.234.134
+Netflix.com.            59      IN      A       52.11.104.17
+Netflix.com.            59      IN      A       52.25.53.155
+Netflix.com.            59      IN      A       35.167.109.163
+Netflix.com.            59      IN      A       52.88.70.220
+Netflix.com.            59      IN      A       54.149.160.164
+Netflix.com.            59      IN      A       54.187.149.50"
+72,Netflix.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37490
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 13, ADDITIONAL: 5
+;; QUESTION SECTION:
+;Netflix.com.                   IN      A
+;; ANSWER SECTION:
+Netflix.com.            59      IN      A       52.25.212.16
+Netflix.com.            59      IN      A       52.41.147.151
+Netflix.com.            59      IN      A       52.11.211.26
+Netflix.com.            59      IN      A       52.41.244.189
+Netflix.com.            59      IN      A       52.27.239.179
+Netflix.com.            59      IN      A       54.213.232.186
+Netflix.com.            59      IN      A       52.24.4.22
+Netflix.com.            59      IN      A       52.24.197.182
+;; AUTHORITY SECTION:
+com.                    42411   IN      NS      l.gtld-servers.net.
+com.                    42411   IN      NS      m.gtld-servers.net.
+com.                    42411   IN      NS      j.gtld-servers.net.
+com.                    42411   IN      NS      e.gtld-servers.net.
+com.                    42411   IN      NS      b.gtld-servers.net.
+com.                    42411   IN      NS      d.gtld-servers.net.
+com.                    42411   IN      NS      f.gtld-servers.net.
+com.                    42411   IN      NS      h.gtld-servers.net.
+com.                    42411   IN      NS      a.gtld-servers.net.
+com.                    42411   IN      NS      i.gtld-servers.net.
+com.                    42411   IN      NS      c.gtld-servers.net.
+com.                    42411   IN      NS      k.gtld-servers.net.
+com.                    42411   IN      NS      g.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41058   IN      A       192.5.6.30
+a.gtld-servers.net.     41058   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41058   IN      A       192.33.14.30
+b.gtld-servers.net.     41058   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41058   IN      A       192.26.92.30"
+73,Netflix.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37490
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 13, ADDITIONAL: 5
+;; QUESTION SECTION:
+;Netflix.com.                   IN      A
+;; ANSWER SECTION:
+netflix.com.            58      IN      A       52.11.211.26
+netflix.com.            58      IN      A       52.41.147.151
+netflix.com.            58      IN      A       52.24.4.22
+netflix.com.            58      IN      A       52.24.197.182
+netflix.com.            58      IN      A       54.213.232.186
+netflix.com.            58      IN      A       52.27.239.179
+netflix.com.            58      IN      A       52.25.212.16
+netflix.com.            58      IN      A       52.41.244.189
+;; AUTHORITY SECTION:
+com.                    42410   IN      NS      k.gtld-servers.net.
+com.                    42410   IN      NS      m.gtld-servers.net.
+com.                    42410   IN      NS      a.gtld-servers.net.
+com.                    42410   IN      NS      c.gtld-servers.net.
+com.                    42410   IN      NS      b.gtld-servers.net.
+com.                    42410   IN      NS      e.gtld-servers.net.
+com.                    42410   IN      NS      f.gtld-servers.net.
+com.                    42410   IN      NS      l.gtld-servers.net.
+com.                    42410   IN      NS      i.gtld-servers.net.
+com.                    42410   IN      NS      d.gtld-servers.net.
+com.                    42410   IN      NS      g.gtld-servers.net.
+com.                    42410   IN      NS      h.gtld-servers.net.
+com.                    42410   IN      NS      j.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41057   IN      A       192.5.6.30
+a.gtld-servers.net.     41057   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41057   IN      A       192.33.14.30
+b.gtld-servers.net.     41057   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41057   IN      A       192.26.92.30"
+74,Netflix.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 37490
+;; flags: qr rd ra; QUERY: 1, ANSWER: 8, AUTHORITY: 13, ADDITIONAL: 5
+;; QUESTION SECTION:
+;Netflix.com.                   IN      A
+;; ANSWER SECTION:
+netflix.com.            57      IN      A       52.24.4.22
+netflix.com.            57      IN      A       52.25.212.16
+netflix.com.            57      IN      A       52.27.239.179
+netflix.com.            57      IN      A       52.41.244.189
+netflix.com.            57      IN      A       52.41.147.151
+netflix.com.            57      IN      A       54.213.232.186
+netflix.com.            57      IN      A       52.24.197.182
+netflix.com.            57      IN      A       52.11.211.26
+;; AUTHORITY SECTION:
+com.                    42409   IN      NS      c.gtld-servers.net.
+com.                    42409   IN      NS      e.gtld-servers.net.
+com.                    42409   IN      NS      i.gtld-servers.net.
+com.                    42409   IN      NS      h.gtld-servers.net.
+com.                    42409   IN      NS      d.gtld-servers.net.
+com.                    42409   IN      NS      l.gtld-servers.net.
+com.                    42409   IN      NS      k.gtld-servers.net.
+com.                    42409   IN      NS      g.gtld-servers.net.
+com.                    42409   IN      NS      b.gtld-servers.net.
+com.                    42409   IN      NS      j.gtld-servers.net.
+com.                    42409   IN      NS      m.gtld-servers.net.
+com.                    42409   IN      NS      a.gtld-servers.net.
+com.                    42409   IN      NS      f.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41056   IN      A       192.5.6.30
+a.gtld-servers.net.     41056   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41056   IN      A       192.33.14.30
+b.gtld-servers.net.     41056   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41056   IN      A       192.26.92.30"
+75,primevideo.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15765
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;primevideo.com.                IN      A
+;; ANSWER SECTION:
+primevideo.com.         36      IN      A       13.225.89.54
+primevideo.com.         36      IN      A       13.225.89.63
+primevideo.com.         36      IN      A       13.225.89.124
+primevideo.com.         36      IN      A       13.225.89.49"
+76,primevideo.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15765
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;primevideo.com.                IN      A
+;; ANSWER SECTION:
+primevideo.com.         59      IN      A       13.224.166.66
+primevideo.com.         59      IN      A       13.224.166.50
+primevideo.com.         59      IN      A       13.224.166.90
+primevideo.com.         59      IN      A       13.224.166.62"
+77,primevideo.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15765
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;primevideo.com.                IN      A
+;; ANSWER SECTION:
+primevideo.com.         59      IN      A       13.224.166.50
+primevideo.com.         59      IN      A       13.224.166.66
+primevideo.com.         59      IN      A       13.224.166.90
+primevideo.com.         59      IN      A       13.224.166.62
+;; AUTHORITY SECTION:
+com.                    42400   IN      NS      a.gtld-servers.net.
+com.                    42400   IN      NS      f.gtld-servers.net.
+com.                    42400   IN      NS      l.gtld-servers.net.
+com.                    42400   IN      NS      i.gtld-servers.net.
+com.                    42400   IN      NS      j.gtld-servers.net.
+com.                    42400   IN      NS      e.gtld-servers.net.
+com.                    42400   IN      NS      g.gtld-servers.net.
+com.                    42400   IN      NS      k.gtld-servers.net.
+com.                    42400   IN      NS      c.gtld-servers.net.
+com.                    42400   IN      NS      b.gtld-servers.net.
+com.                    42400   IN      NS      m.gtld-servers.net.
+com.                    42400   IN      NS      d.gtld-servers.net.
+com.                    42400   IN      NS      h.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41047   IN      A       192.5.6.30
+a.gtld-servers.net.     41047   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41047   IN      A       192.33.14.30
+b.gtld-servers.net.     41047   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41047   IN      A       192.26.92.30
+c.gtld-servers.net.     41047   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41047   IN      A       192.31.80.30
+d.gtld-servers.net.     41047   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41047   IN      A       192.12.94.30"
+78,primevideo.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15765
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;primevideo.com.                IN      A
+;; ANSWER SECTION:
+primevideo.com.         58      IN      A       13.224.166.62
+primevideo.com.         58      IN      A       13.224.166.66
+primevideo.com.         58      IN      A       13.224.166.90
+primevideo.com.         58      IN      A       13.224.166.50
+;; AUTHORITY SECTION:
+com.                    42399   IN      NS      j.gtld-servers.net.
+com.                    42399   IN      NS      c.gtld-servers.net.
+com.                    42399   IN      NS      b.gtld-servers.net.
+com.                    42399   IN      NS      k.gtld-servers.net.
+com.                    42399   IN      NS      e.gtld-servers.net.
+com.                    42399   IN      NS      h.gtld-servers.net.
+com.                    42399   IN      NS      a.gtld-servers.net.
+com.                    42399   IN      NS      f.gtld-servers.net.
+com.                    42399   IN      NS      m.gtld-servers.net.
+com.                    42399   IN      NS      i.gtld-servers.net.
+com.                    42399   IN      NS      l.gtld-servers.net.
+com.                    42399   IN      NS      d.gtld-servers.net.
+com.                    42399   IN      NS      g.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41046   IN      A       192.5.6.30
+a.gtld-servers.net.     41046   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41046   IN      A       192.33.14.30
+b.gtld-servers.net.     41046   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41046   IN      A       192.26.92.30
+c.gtld-servers.net.     41046   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41046   IN      A       192.31.80.30
+d.gtld-servers.net.     41046   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41046   IN      A       192.12.94.30"
+79,primevideo.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15765
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;primevideo.com.                IN      A
+;; ANSWER SECTION:
+primevideo.com.         58      IN      A       13.224.166.62
+primevideo.com.         58      IN      A       13.224.166.50
+primevideo.com.         58      IN      A       13.224.166.66
+primevideo.com.         58      IN      A       13.224.166.90
+;; AUTHORITY SECTION:
+com.                    42399   IN      NS      d.gtld-servers.net.
+com.                    42399   IN      NS      a.gtld-servers.net.
+com.                    42399   IN      NS      b.gtld-servers.net.
+com.                    42399   IN      NS      j.gtld-servers.net.
+com.                    42399   IN      NS      c.gtld-servers.net.
+com.                    42399   IN      NS      h.gtld-servers.net.
+com.                    42399   IN      NS      i.gtld-servers.net.
+com.                    42399   IN      NS      f.gtld-servers.net.
+com.                    42399   IN      NS      l.gtld-servers.net.
+com.                    42399   IN      NS      m.gtld-servers.net.
+com.                    42399   IN      NS      k.gtld-servers.net.
+com.                    42399   IN      NS      g.gtld-servers.net.
+com.                    42399   IN      NS      e.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41046   IN      A       192.5.6.30
+a.gtld-servers.net.     41046   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41046   IN      A       192.33.14.30
+b.gtld-servers.net.     41046   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41046   IN      A       192.26.92.30
+c.gtld-servers.net.     41046   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41046   IN      A       192.31.80.30
+d.gtld-servers.net.     41046   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41046   IN      A       192.12.94.30"
+80,tv.apple.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60924
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;tv.apple.com.                  IN      A
+;; ANSWER SECTION:
+tv.apple.com.           300     IN      CNAME   itunes-cdn.itunes-apple.com.akadns.net.
+itunes-cdn.itunes-apple.com.akadns.net. 3600    IN      CNAME   itunes.apple.com.edgekey.net.
+itunes.apple.com.edgekey.net. 21600   IN      CNAME   e673.dsce9.akamaiedge.net.
+e673.dsce9.akamaiedge.net. 20      IN      A       23.198.133.66"
+81,tv.apple.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60924
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;tv.apple.com.                  IN      A
+;; ANSWER SECTION:
+tv.apple.com.           299     IN      CNAME   itunes-cdn.itunes-apple.com.akadns.net.
+itunes-cdn.itunes-apple.com.akadns.net. 3599    IN      CNAME   itunes.apple.com.edgekey.net.
+itunes.apple.com.edgekey.net. 21599   IN      CNAME   e673.dsce9.akamaiedge.net.
+e673.dsce9.akamaiedge.net. 19      IN      A       2.20.136.36"
+82,tv.apple.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60924
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 5
+;; QUESTION SECTION:
+;tv.apple.com.                  IN      A
+;; ANSWER SECTION:
+tv.apple.com.           137     IN      CNAME   itunes-cdn.itunes-apple.com.akadns.net.
+itunes-cdn.itunes-apple.com.akadns.net. 316     IN      CNAME   itunes.apple.com.edgekey.net.
+itunes.apple.com.edgekey.net. 4733    IN      CNAME   e673.dsce9.akamaiedge.net.
+e673.dsce9.akamaiedge.net. 19      IN      A       2.20.136.36
+;; AUTHORITY SECTION:
+net.                    41038   IN      NS      b.gtld-servers.net.
+net.                    41038   IN      NS      e.gtld-servers.net.
+net.                    41038   IN      NS      c.gtld-servers.net.
+net.                    41038   IN      NS      l.gtld-servers.net.
+net.                    41038   IN      NS      a.gtld-servers.net.
+net.                    41038   IN      NS      k.gtld-servers.net.
+net.                    41038   IN      NS      i.gtld-servers.net.
+net.                    41038   IN      NS      g.gtld-servers.net.
+net.                    41038   IN      NS      d.gtld-servers.net.
+net.                    41038   IN      NS      m.gtld-servers.net.
+net.                    41038   IN      NS      h.gtld-servers.net.
+net.                    41038   IN      NS      j.gtld-servers.net.
+net.                    41038   IN      NS      f.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41038   IN      A       192.5.6.30
+a.gtld-servers.net.     41038   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41038   IN      A       192.33.14.30
+b.gtld-servers.net.     41038   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41038   IN      A       192.26.92.30"
+83,tv.apple.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60924
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 5
+;; QUESTION SECTION:
+;tv.apple.com.                  IN      A
+;; ANSWER SECTION:
+tv.apple.com.           134     IN      CNAME   itunes-cdn.itunes-apple.com.akadns.net.
+itunes-cdn.itunes-apple.com.akadns.net. 313     IN      CNAME   itunes.apple.com.edgekey.net.
+itunes.apple.com.edgekey.net. 4730    IN      CNAME   e673.dsce9.akamaiedge.net.
+e673.dsce9.akamaiedge.net. 16      IN      A       2.20.136.36
+;; AUTHORITY SECTION:
+net.                    41035   IN      NS      e.gtld-servers.net.
+net.                    41035   IN      NS      g.gtld-servers.net.
+net.                    41035   IN      NS      d.gtld-servers.net.
+net.                    41035   IN      NS      j.gtld-servers.net.
+net.                    41035   IN      NS      h.gtld-servers.net.
+net.                    41035   IN      NS      k.gtld-servers.net.
+net.                    41035   IN      NS      b.gtld-servers.net.
+net.                    41035   IN      NS      m.gtld-servers.net.
+net.                    41035   IN      NS      c.gtld-servers.net.
+net.                    41035   IN      NS      i.gtld-servers.net.
+net.                    41035   IN      NS      f.gtld-servers.net.
+net.                    41035   IN      NS      a.gtld-servers.net.
+net.                    41035   IN      NS      l.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41035   IN      A       192.5.6.30
+a.gtld-servers.net.     41035   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41035   IN      A       192.33.14.30
+b.gtld-servers.net.     41035   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41035   IN      A       192.26.92.30"
+84,tv.apple.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 60924
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 5
+;; QUESTION SECTION:
+;tv.apple.com.                  IN      A
+;; ANSWER SECTION:
+tv.apple.com.           134     IN      CNAME   itunes-cdn.itunes-apple.com.akadns.net.
+itunes-cdn.itunes-apple.com.akadns.net. 313     IN      CNAME   itunes.apple.com.edgekey.net.
+itunes.apple.com.edgekey.net. 4730    IN      CNAME   e673.dsce9.akamaiedge.net.
+e673.dsce9.akamaiedge.net. 16      IN      A       2.20.136.36
+;; AUTHORITY SECTION:
+net.                    41035   IN      NS      m.gtld-servers.net.
+net.                    41035   IN      NS      e.gtld-servers.net.
+net.                    41035   IN      NS      j.gtld-servers.net.
+net.                    41035   IN      NS      c.gtld-servers.net.
+net.                    41035   IN      NS      d.gtld-servers.net.
+net.                    41035   IN      NS      h.gtld-servers.net.
+net.                    41035   IN      NS      f.gtld-servers.net.
+net.                    41035   IN      NS      i.gtld-servers.net.
+net.                    41035   IN      NS      k.gtld-servers.net.
+net.                    41035   IN      NS      g.gtld-servers.net.
+net.                    41035   IN      NS      a.gtld-servers.net.
+net.                    41035   IN      NS      l.gtld-servers.net.
+net.                    41035   IN      NS      b.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41035   IN      A       192.5.6.30
+a.gtld-servers.net.     41035   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41035   IN      A       192.33.14.30
+b.gtld-servers.net.     41035   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41035   IN      A       192.26.92.30"
+85,hulu.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26847
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;hulu.com.                      IN      A
+;; ANSWER SECTION:
+hulu.com.               10      IN      A       23.77.22.41"
+86,hulu.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26847
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;hulu.com.                      IN      A
+;; ANSWER SECTION:
+hulu.com.               4       IN      A       104.127.218.17"
+87,hulu.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26847
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;hulu.com.                      IN      A
+;; ANSWER SECTION:
+hulu.com.               19      IN      A       23.77.22.41
+;; AUTHORITY SECTION:
+com.                    42382   IN      NS      b.gtld-servers.net.
+com.                    42382   IN      NS      c.gtld-servers.net.
+com.                    42382   IN      NS      j.gtld-servers.net.
+com.                    42382   IN      NS      k.gtld-servers.net.
+com.                    42382   IN      NS      i.gtld-servers.net.
+com.                    42382   IN      NS      e.gtld-servers.net.
+com.                    42382   IN      NS      h.gtld-servers.net.
+com.                    42382   IN      NS      d.gtld-servers.net.
+com.                    42382   IN      NS      a.gtld-servers.net.
+com.                    42382   IN      NS      g.gtld-servers.net.
+com.                    42382   IN      NS      f.gtld-servers.net.
+com.                    42382   IN      NS      m.gtld-servers.net.
+com.                    42382   IN      NS      l.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41029   IN      A       192.5.6.30
+a.gtld-servers.net.     41029   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41029   IN      A       192.33.14.30
+b.gtld-servers.net.     41029   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41029   IN      A       192.26.92.30
+c.gtld-servers.net.     41029   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41029   IN      A       192.31.80.30
+d.gtld-servers.net.     41029   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41029   IN      A       192.12.94.30
+e.gtld-servers.net.     41029   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     41029   IN      A       192.35.51.30"
+88,hulu.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26847
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;hulu.com.                      IN      A
+;; ANSWER SECTION:
+hulu.com.               18      IN      A       23.77.22.41
+;; AUTHORITY SECTION:
+com.                    42381   IN      NS      m.gtld-servers.net.
+com.                    42381   IN      NS      k.gtld-servers.net.
+com.                    42381   IN      NS      a.gtld-servers.net.
+com.                    42381   IN      NS      d.gtld-servers.net.
+com.                    42381   IN      NS      f.gtld-servers.net.
+com.                    42381   IN      NS      i.gtld-servers.net.
+com.                    42381   IN      NS      g.gtld-servers.net.
+com.                    42381   IN      NS      l.gtld-servers.net.
+com.                    42381   IN      NS      j.gtld-servers.net.
+com.                    42381   IN      NS      b.gtld-servers.net.
+com.                    42381   IN      NS      e.gtld-servers.net.
+com.                    42381   IN      NS      h.gtld-servers.net.
+com.                    42381   IN      NS      c.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41028   IN      A       192.5.6.30
+a.gtld-servers.net.     41028   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41028   IN      A       192.33.14.30
+b.gtld-servers.net.     41028   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41028   IN      A       192.26.92.30
+c.gtld-servers.net.     41028   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41028   IN      A       192.31.80.30
+d.gtld-servers.net.     41028   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41028   IN      A       192.12.94.30
+e.gtld-servers.net.     41028   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     41028   IN      A       192.35.51.30"
+89,hulu.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 26847
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;hulu.com.                      IN      A
+;; ANSWER SECTION:
+hulu.com.               18      IN      A       23.77.22.41
+;; AUTHORITY SECTION:
+com.                    42381   IN      NS      i.gtld-servers.net.
+com.                    42381   IN      NS      b.gtld-servers.net.
+com.                    42381   IN      NS      c.gtld-servers.net.
+com.                    42381   IN      NS      j.gtld-servers.net.
+com.                    42381   IN      NS      e.gtld-servers.net.
+com.                    42381   IN      NS      d.gtld-servers.net.
+com.                    42381   IN      NS      m.gtld-servers.net.
+com.                    42381   IN      NS      a.gtld-servers.net.
+com.                    42381   IN      NS      l.gtld-servers.net.
+com.                    42381   IN      NS      k.gtld-servers.net.
+com.                    42381   IN      NS      f.gtld-servers.net.
+com.                    42381   IN      NS      h.gtld-servers.net.
+com.                    42381   IN      NS      g.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41028   IN      A       192.5.6.30
+a.gtld-servers.net.     41028   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41028   IN      A       192.33.14.30
+b.gtld-servers.net.     41028   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41028   IN      A       192.26.92.30
+c.gtld-servers.net.     41028   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41028   IN      A       192.31.80.30
+d.gtld-servers.net.     41028   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41028   IN      A       192.12.94.30
+e.gtld-servers.net.     41028   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     41028   IN      A       192.35.51.30"
+90,udacity.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27361
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;udacity.com.                   IN      A
+;; ANSWER SECTION:
+udacity.com.            50      IN      A       13.224.166.105
+udacity.com.            50      IN      A       13.224.166.87
+udacity.com.            50      IN      A       13.224.166.6
+udacity.com.            50      IN      A       13.224.166.60"
+91,udacity.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27361
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;udacity.com.                   IN      A
+;; ANSWER SECTION:
+udacity.com.            59      IN      A       13.224.166.6
+udacity.com.            59      IN      A       13.224.166.60
+udacity.com.            59      IN      A       13.224.166.105
+udacity.com.            59      IN      A       13.224.166.87"
+92,udacity.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27361
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;udacity.com.                   IN      A
+;; ANSWER SECTION:
+udacity.com.            58      IN      A       13.224.166.87
+udacity.com.            58      IN      A       13.224.166.6
+udacity.com.            58      IN      A       13.224.166.105
+udacity.com.            58      IN      A       13.224.166.60
+;; AUTHORITY SECTION:
+com.                    42376   IN      NS      h.gtld-servers.net.
+com.                    42376   IN      NS      k.gtld-servers.net.
+com.                    42376   IN      NS      c.gtld-servers.net.
+com.                    42376   IN      NS      i.gtld-servers.net.
+com.                    42376   IN      NS      m.gtld-servers.net.
+com.                    42376   IN      NS      a.gtld-servers.net.
+com.                    42376   IN      NS      f.gtld-servers.net.
+com.                    42376   IN      NS      j.gtld-servers.net.
+com.                    42376   IN      NS      e.gtld-servers.net.
+com.                    42376   IN      NS      b.gtld-servers.net.
+com.                    42376   IN      NS      g.gtld-servers.net.
+com.                    42376   IN      NS      d.gtld-servers.net.
+com.                    42376   IN      NS      l.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41023   IN      A       192.5.6.30
+a.gtld-servers.net.     41023   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41023   IN      A       192.33.14.30
+b.gtld-servers.net.     41023   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41023   IN      A       192.26.92.30
+c.gtld-servers.net.     41023   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41023   IN      A       192.31.80.30
+d.gtld-servers.net.     41023   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41023   IN      A       192.12.94.30"
+93,udacity.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27361
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;udacity.com.                   IN      A
+;; ANSWER SECTION:
+udacity.com.            58      IN      A       13.224.166.6
+udacity.com.            58      IN      A       13.224.166.60
+udacity.com.            58      IN      A       13.224.166.105
+udacity.com.            58      IN      A       13.224.166.87
+;; AUTHORITY SECTION:
+com.                    42376   IN      NS      g.gtld-servers.net.
+com.                    42376   IN      NS      b.gtld-servers.net.
+com.                    42376   IN      NS      m.gtld-servers.net.
+com.                    42376   IN      NS      k.gtld-servers.net.
+com.                    42376   IN      NS      f.gtld-servers.net.
+com.                    42376   IN      NS      i.gtld-servers.net.
+com.                    42376   IN      NS      a.gtld-servers.net.
+com.                    42376   IN      NS      l.gtld-servers.net.
+com.                    42376   IN      NS      j.gtld-servers.net.
+com.                    42376   IN      NS      h.gtld-servers.net.
+com.                    42376   IN      NS      c.gtld-servers.net.
+com.                    42376   IN      NS      d.gtld-servers.net.
+com.                    42376   IN      NS      e.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41023   IN      A       192.5.6.30
+a.gtld-servers.net.     41023   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41023   IN      A       192.33.14.30
+b.gtld-servers.net.     41023   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41023   IN      A       192.26.92.30
+c.gtld-servers.net.     41023   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41023   IN      A       192.31.80.30
+d.gtld-servers.net.     41023   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41023   IN      A       192.12.94.30"
+94,udacity.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27361
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;udacity.com.                   IN      A
+;; ANSWER SECTION:
+udacity.com.            56      IN      A       13.224.166.87
+udacity.com.            56      IN      A       13.224.166.60
+udacity.com.            56      IN      A       13.224.166.6
+udacity.com.            56      IN      A       13.224.166.105
+;; AUTHORITY SECTION:
+com.                    42374   IN      NS      l.gtld-servers.net.
+com.                    42374   IN      NS      c.gtld-servers.net.
+com.                    42374   IN      NS      j.gtld-servers.net.
+com.                    42374   IN      NS      b.gtld-servers.net.
+com.                    42374   IN      NS      e.gtld-servers.net.
+com.                    42374   IN      NS      d.gtld-servers.net.
+com.                    42374   IN      NS      g.gtld-servers.net.
+com.                    42374   IN      NS      h.gtld-servers.net.
+com.                    42374   IN      NS      m.gtld-servers.net.
+com.                    42374   IN      NS      i.gtld-servers.net.
+com.                    42374   IN      NS      k.gtld-servers.net.
+com.                    42374   IN      NS      a.gtld-servers.net.
+com.                    42374   IN      NS      f.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41021   IN      A       192.5.6.30
+a.gtld-servers.net.     41021   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41021   IN      A       192.33.14.30
+b.gtld-servers.net.     41021   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41021   IN      A       192.26.92.30
+c.gtld-servers.net.     41021   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41021   IN      A       192.31.80.30
+d.gtld-servers.net.     41021   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41021   IN      A       192.12.94.30"
+95,mooc.org,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 326
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;mooc.org.                      IN      A
+;; ANSWER SECTION:
+mooc.org.               60      IN      A       13.227.54.57
+mooc.org.               60      IN      A       13.227.54.68
+mooc.org.               60      IN      A       13.227.54.21
+mooc.org.               60      IN      A       13.227.54.105"
+96,mooc.org,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 326
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;mooc.org.                      IN      A
+;; ANSWER SECTION:
+mooc.org.               59      IN      A       13.227.54.21
+mooc.org.               59      IN      A       13.227.54.105
+mooc.org.               59      IN      A       13.227.54.57
+mooc.org.               59      IN      A       13.227.54.68"
+97,mooc.org,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 326
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 6, ADDITIONAL: 12
+;; QUESTION SECTION:
+;mooc.org.                      IN      A
+;; ANSWER SECTION:
+mooc.org.               59      IN      A       13.227.54.68
+mooc.org.               59      IN      A       13.227.54.105
+mooc.org.               59      IN      A       13.227.54.57
+mooc.org.               59      IN      A       13.227.54.21
+;; AUTHORITY SECTION:
+org.                    42487   IN      NS      a0.org.afilias-nst.info.
+org.                    42487   IN      NS      d0.org.afilias-nst.org.
+org.                    42487   IN      NS      b2.org.afilias-nst.org.
+org.                    42487   IN      NS      a2.org.afilias-nst.info.
+org.                    42487   IN      NS      b0.org.afilias-nst.org.
+org.                    42487   IN      NS      c0.org.afilias-nst.info.
+;; ADDITIONAL SECTION:
+a0.org.afilias-nst.info. 42487   IN      A       199.19.56.1
+a0.org.afilias-nst.info. 42487   IN      AAAA    2001:500:e::1
+a2.org.afilias-nst.info. 42487   IN      A       199.249.112.1
+a2.org.afilias-nst.info. 42487   IN      AAAA    2001:500:40::1
+b0.org.afilias-nst.org. 42487   IN      A       199.19.54.1
+b0.org.afilias-nst.org. 42487   IN      AAAA    2001:500:c::1
+b2.org.afilias-nst.org. 42487   IN      A       199.249.120.1
+b2.org.afilias-nst.org. 42487   IN      AAAA    2001:500:48::1
+c0.org.afilias-nst.info. 42487   IN      A       199.19.53.1
+c0.org.afilias-nst.info. 42487   IN      AAAA    2001:500:b::1
+d0.org.afilias-nst.org. 42487   IN      A       199.19.57.1
+d0.org.afilias-nst.org. 42487   IN      AAAA    2001:500:f::1"
+98,mooc.org,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 326
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 6, ADDITIONAL: 12
+;; QUESTION SECTION:
+;mooc.org.                      IN      A
+;; ANSWER SECTION:
+mooc.org.               58      IN      A       13.227.54.21
+mooc.org.               58      IN      A       13.227.54.57
+mooc.org.               58      IN      A       13.227.54.68
+mooc.org.               58      IN      A       13.227.54.105
+;; AUTHORITY SECTION:
+org.                    42486   IN      NS      b0.org.afilias-nst.org.
+org.                    42486   IN      NS      a0.org.afilias-nst.info.
+org.                    42486   IN      NS      d0.org.afilias-nst.org.
+org.                    42486   IN      NS      a2.org.afilias-nst.info.
+org.                    42486   IN      NS      b2.org.afilias-nst.org.
+org.                    42486   IN      NS      c0.org.afilias-nst.info.
+;; ADDITIONAL SECTION:
+a0.org.afilias-nst.info. 42486   IN      A       199.19.56.1
+a0.org.afilias-nst.info. 42486   IN      AAAA    2001:500:e::1
+a2.org.afilias-nst.info. 42486   IN      A       199.249.112.1
+a2.org.afilias-nst.info. 42486   IN      AAAA    2001:500:40::1
+b0.org.afilias-nst.org. 42486   IN      A       199.19.54.1
+b0.org.afilias-nst.org. 42486   IN      AAAA    2001:500:c::1
+b2.org.afilias-nst.org. 42486   IN      A       199.249.120.1
+b2.org.afilias-nst.org. 42486   IN      AAAA    2001:500:48::1
+c0.org.afilias-nst.info. 42486   IN      A       199.19.53.1
+c0.org.afilias-nst.info. 42486   IN      AAAA    2001:500:b::1
+d0.org.afilias-nst.org. 42486   IN      A       199.19.57.1
+d0.org.afilias-nst.org. 42486   IN      AAAA    2001:500:f::1"
+99,mooc.org,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 326
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 6, ADDITIONAL: 12
+;; QUESTION SECTION:
+;mooc.org.                      IN      A
+;; ANSWER SECTION:
+mooc.org.               57      IN      A       13.227.54.21
+mooc.org.               57      IN      A       13.227.54.105
+mooc.org.               57      IN      A       13.227.54.68
+mooc.org.               57      IN      A       13.227.54.57
+;; AUTHORITY SECTION:
+org.                    42485   IN      NS      c0.org.afilias-nst.info.
+org.                    42485   IN      NS      d0.org.afilias-nst.org.
+org.                    42485   IN      NS      a2.org.afilias-nst.info.
+org.                    42485   IN      NS      b0.org.afilias-nst.org.
+org.                    42485   IN      NS      b2.org.afilias-nst.org.
+org.                    42485   IN      NS      a0.org.afilias-nst.info.
+;; ADDITIONAL SECTION:
+a0.org.afilias-nst.info. 42485   IN      A       199.19.56.1
+a0.org.afilias-nst.info. 42485   IN      AAAA    2001:500:e::1
+a2.org.afilias-nst.info. 42485   IN      A       199.249.112.1
+a2.org.afilias-nst.info. 42485   IN      AAAA    2001:500:40::1
+b0.org.afilias-nst.org. 42485   IN      A       199.19.54.1
+b0.org.afilias-nst.org. 42485   IN      AAAA    2001:500:c::1
+b2.org.afilias-nst.org. 42485   IN      A       199.249.120.1
+b2.org.afilias-nst.org. 42485   IN      AAAA    2001:500:48::1
+c0.org.afilias-nst.info. 42485   IN      A       199.19.53.1
+c0.org.afilias-nst.info. 42485   IN      AAAA    2001:500:b::1
+d0.org.afilias-nst.org. 42485   IN      A       199.19.57.1
+d0.org.afilias-nst.org. 42485   IN      AAAA    2001:500:f::1"
+100,udemy.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45832
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;udemy.com.                     IN      A
+;; ANSWER SECTION:
+udemy.com.              97      IN      A       104.16.92.52
+udemy.com.              97      IN      A       104.16.91.52"
+101,udemy.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45832
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;udemy.com.                     IN      A
+;; ANSWER SECTION:
+udemy.com.              257     IN      A       104.16.91.52
+udemy.com.              257     IN      A       104.16.92.52"
+102,udemy.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45832
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;udemy.com.                     IN      A
+;; ANSWER SECTION:
+udemy.com.              256     IN      A       104.16.92.52
+udemy.com.              256     IN      A       104.16.91.52
+;; AUTHORITY SECTION:
+com.                    42361   IN      NS      j.gtld-servers.net.
+com.                    42361   IN      NS      l.gtld-servers.net.
+com.                    42361   IN      NS      c.gtld-servers.net.
+com.                    42361   IN      NS      a.gtld-servers.net.
+com.                    42361   IN      NS      h.gtld-servers.net.
+com.                    42361   IN      NS      m.gtld-servers.net.
+com.                    42361   IN      NS      f.gtld-servers.net.
+com.                    42361   IN      NS      b.gtld-servers.net.
+com.                    42361   IN      NS      i.gtld-servers.net.
+com.                    42361   IN      NS      k.gtld-servers.net.
+com.                    42361   IN      NS      d.gtld-servers.net.
+com.                    42361   IN      NS      g.gtld-servers.net.
+com.                    42361   IN      NS      e.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41008   IN      A       192.5.6.30
+a.gtld-servers.net.     41008   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41008   IN      A       192.33.14.30
+b.gtld-servers.net.     41008   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41008   IN      A       192.26.92.30
+c.gtld-servers.net.     41008   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41008   IN      A       192.31.80.30
+d.gtld-servers.net.     41008   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41008   IN      A       192.12.94.30
+e.gtld-servers.net.     41008   IN      AAAA    2001:502:1ca1::30"
+103,udemy.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45832
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;udemy.com.                     IN      A
+;; ANSWER SECTION:
+udemy.com.              255     IN      A       104.16.92.52
+udemy.com.              255     IN      A       104.16.91.52
+;; AUTHORITY SECTION:
+com.                    42360   IN      NS      e.gtld-servers.net.
+com.                    42360   IN      NS      b.gtld-servers.net.
+com.                    42360   IN      NS      a.gtld-servers.net.
+com.                    42360   IN      NS      g.gtld-servers.net.
+com.                    42360   IN      NS      k.gtld-servers.net.
+com.                    42360   IN      NS      m.gtld-servers.net.
+com.                    42360   IN      NS      h.gtld-servers.net.
+com.                    42360   IN      NS      f.gtld-servers.net.
+com.                    42360   IN      NS      d.gtld-servers.net.
+com.                    42360   IN      NS      c.gtld-servers.net.
+com.                    42360   IN      NS      l.gtld-servers.net.
+com.                    42360   IN      NS      i.gtld-servers.net.
+com.                    42360   IN      NS      j.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41007   IN      A       192.5.6.30
+a.gtld-servers.net.     41007   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41007   IN      A       192.33.14.30
+b.gtld-servers.net.     41007   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41007   IN      A       192.26.92.30
+c.gtld-servers.net.     41007   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41007   IN      A       192.31.80.30
+d.gtld-servers.net.     41007   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41007   IN      A       192.12.94.30
+e.gtld-servers.net.     41007   IN      AAAA    2001:502:1ca1::30"
+104,udemy.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45832
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;udemy.com.                     IN      A
+;; ANSWER SECTION:
+udemy.com.              255     IN      A       104.16.91.52
+udemy.com.              255     IN      A       104.16.92.52
+;; AUTHORITY SECTION:
+com.                    42360   IN      NS      c.gtld-servers.net.
+com.                    42360   IN      NS      h.gtld-servers.net.
+com.                    42360   IN      NS      g.gtld-servers.net.
+com.                    42360   IN      NS      i.gtld-servers.net.
+com.                    42360   IN      NS      j.gtld-servers.net.
+com.                    42360   IN      NS      l.gtld-servers.net.
+com.                    42360   IN      NS      a.gtld-servers.net.
+com.                    42360   IN      NS      e.gtld-servers.net.
+com.                    42360   IN      NS      m.gtld-servers.net.
+com.                    42360   IN      NS      k.gtld-servers.net.
+com.                    42360   IN      NS      b.gtld-servers.net.
+com.                    42360   IN      NS      d.gtld-servers.net.
+com.                    42360   IN      NS      f.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     41007   IN      A       192.5.6.30
+a.gtld-servers.net.     41007   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     41007   IN      A       192.33.14.30
+b.gtld-servers.net.     41007   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     41007   IN      A       192.26.92.30
+c.gtld-servers.net.     41007   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     41007   IN      A       192.31.80.30
+d.gtld-servers.net.     41007   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     41007   IN      A       192.12.94.30
+e.gtld-servers.net.     41007   IN      AAAA    2001:502:1ca1::30"
+105,khanacademy.org,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36099
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;khanacademy.org.               IN      A
+;; ANSWER SECTION:
+khanacademy.org.        22      IN      A       13.224.29.41
+khanacademy.org.        22      IN      A       13.224.29.2
+khanacademy.org.        22      IN      A       13.224.29.34
+khanacademy.org.        22      IN      A       13.224.29.17"
+106,khanacademy.org,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36099
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;khanacademy.org.               IN      A
+;; ANSWER SECTION:
+khanacademy.org.        59      IN      A       13.224.29.34
+khanacademy.org.        59      IN      A       13.224.29.17
+khanacademy.org.        59      IN      A       13.224.29.2
+khanacademy.org.        59      IN      A       13.224.29.41"
+107,khanacademy.org,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36099
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 6, ADDITIONAL: 12
+;; QUESTION SECTION:
+;khanacademy.org.               IN      A
+;; ANSWER SECTION:
+khanacademy.org.        59      IN      A       13.224.29.34
+khanacademy.org.        59      IN      A       13.224.29.17
+khanacademy.org.        59      IN      A       13.224.29.41
+khanacademy.org.        59      IN      A       13.224.29.2
+;; AUTHORITY SECTION:
+org.                    42472   IN      NS      d0.org.afilias-nst.org.
+org.                    42472   IN      NS      a2.org.afilias-nst.info.
+org.                    42472   IN      NS      c0.org.afilias-nst.info.
+org.                    42472   IN      NS      b2.org.afilias-nst.org.
+org.                    42472   IN      NS      b0.org.afilias-nst.org.
+org.                    42472   IN      NS      a0.org.afilias-nst.info.
+;; ADDITIONAL SECTION:
+a0.org.afilias-nst.info. 42472   IN      A       199.19.56.1
+a0.org.afilias-nst.info. 42472   IN      AAAA    2001:500:e::1
+a2.org.afilias-nst.info. 42472   IN      A       199.249.112.1
+a2.org.afilias-nst.info. 42472   IN      AAAA    2001:500:40::1
+b0.org.afilias-nst.org. 42472   IN      A       199.19.54.1
+b0.org.afilias-nst.org. 42472   IN      AAAA    2001:500:c::1
+b2.org.afilias-nst.org. 42472   IN      A       199.249.120.1
+b2.org.afilias-nst.org. 42472   IN      AAAA    2001:500:48::1
+c0.org.afilias-nst.info. 42472   IN      A       199.19.53.1
+c0.org.afilias-nst.info. 42472   IN      AAAA    2001:500:b::1
+d0.org.afilias-nst.org. 42472   IN      A       199.19.57.1
+d0.org.afilias-nst.org. 42472   IN      AAAA    2001:500:f::1"
+108,khanacademy.org,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36099
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 6, ADDITIONAL: 12
+;; QUESTION SECTION:
+;khanacademy.org.               IN      A
+;; ANSWER SECTION:
+khanacademy.org.        58      IN      A       13.224.29.41
+khanacademy.org.        58      IN      A       13.224.29.2
+khanacademy.org.        58      IN      A       13.224.29.34
+khanacademy.org.        58      IN      A       13.224.29.17
+;; AUTHORITY SECTION:
+org.                    42471   IN      NS      d0.org.afilias-nst.org.
+org.                    42471   IN      NS      a0.org.afilias-nst.info.
+org.                    42471   IN      NS      b2.org.afilias-nst.org.
+org.                    42471   IN      NS      a2.org.afilias-nst.info.
+org.                    42471   IN      NS      b0.org.afilias-nst.org.
+org.                    42471   IN      NS      c0.org.afilias-nst.info.
+;; ADDITIONAL SECTION:
+a0.org.afilias-nst.info. 42471   IN      A       199.19.56.1
+a0.org.afilias-nst.info. 42471   IN      AAAA    2001:500:e::1
+a2.org.afilias-nst.info. 42471   IN      A       199.249.112.1
+a2.org.afilias-nst.info. 42471   IN      AAAA    2001:500:40::1
+b0.org.afilias-nst.org. 42471   IN      A       199.19.54.1
+b0.org.afilias-nst.org. 42471   IN      AAAA    2001:500:c::1
+b2.org.afilias-nst.org. 42471   IN      A       199.249.120.1
+b2.org.afilias-nst.org. 42471   IN      AAAA    2001:500:48::1
+c0.org.afilias-nst.info. 42471   IN      A       199.19.53.1
+c0.org.afilias-nst.info. 42471   IN      AAAA    2001:500:b::1
+d0.org.afilias-nst.org. 42471   IN      A       199.19.57.1
+d0.org.afilias-nst.org. 42471   IN      AAAA    2001:500:f::1"
+109,khanacademy.org,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36099
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 6, ADDITIONAL: 12
+;; QUESTION SECTION:
+;khanacademy.org.               IN      A
+;; ANSWER SECTION:
+khanacademy.org.        58      IN      A       13.224.29.2
+khanacademy.org.        58      IN      A       13.224.29.17
+khanacademy.org.        58      IN      A       13.224.29.41
+khanacademy.org.        58      IN      A       13.224.29.34
+;; AUTHORITY SECTION:
+org.                    42471   IN      NS      a2.org.afilias-nst.info.
+org.                    42471   IN      NS      c0.org.afilias-nst.info.
+org.                    42471   IN      NS      d0.org.afilias-nst.org.
+org.                    42471   IN      NS      a0.org.afilias-nst.info.
+org.                    42471   IN      NS      b2.org.afilias-nst.org.
+org.                    42471   IN      NS      b0.org.afilias-nst.org.
+;; ADDITIONAL SECTION:
+a0.org.afilias-nst.info. 42471   IN      A       199.19.56.1
+a0.org.afilias-nst.info. 42471   IN      AAAA    2001:500:e::1
+a2.org.afilias-nst.info. 42471   IN      A       199.249.112.1
+a2.org.afilias-nst.info. 42471   IN      AAAA    2001:500:40::1
+b0.org.afilias-nst.org. 42471   IN      A       199.19.54.1
+b0.org.afilias-nst.org. 42471   IN      AAAA    2001:500:c::1
+b2.org.afilias-nst.org. 42471   IN      A       199.249.120.1
+b2.org.afilias-nst.org. 42471   IN      AAAA    2001:500:48::1
+c0.org.afilias-nst.info. 42471   IN      A       199.19.53.1
+c0.org.afilias-nst.info. 42471   IN      AAAA    2001:500:b::1
+d0.org.afilias-nst.org. 42471   IN      A       199.19.57.1
+d0.org.afilias-nst.org. 42471   IN      AAAA    2001:500:f::1"
+110,https://aws.amazon.com/training/,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53095
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://aws.amazon.com/training/. IN      A
+;; AUTHORITY SECTION:
+.                       86400   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+111,https://aws.amazon.com/training/,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53095
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://aws.amazon.com/training/. IN      A
+;; AUTHORITY SECTION:
+.                       86396   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+112,https://aws.amazon.com/training/,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53095
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://aws.amazon.com/training/. IN      A
+;; AUTHORITY SECTION:
+.                       10800   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+113,https://aws.amazon.com/training/,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53095
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://aws.amazon.com/training/. IN      A
+;; AUTHORITY SECTION:
+.                       10799   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+114,https://aws.amazon.com/training/,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 53095
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://aws.amazon.com/training/. IN      A
+;; AUTHORITY SECTION:
+.                       10799   IN      SOA     a.root-servers.net. nstld.verisign-grs.com. 2020082000 1800 900 604800 86400"
+115,gla.ac.uk,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52822
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;gla.ac.uk.                     IN      A
+;; ANSWER SECTION:
+gla.ac.uk.              237     IN      A       130.209.16.93"
+116,gla.ac.uk,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52822
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;gla.ac.uk.                     IN      A
+;; ANSWER SECTION:
+gla.ac.uk.              599     IN      A       130.209.16.93"
+117,gla.ac.uk,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52822
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;gla.ac.uk.                     IN      A
+;; ANSWER SECTION:
+gla.ac.uk.              599     IN      A       130.209.16.93
+;; AUTHORITY SECTION:
+.                       35515   IN      NS      a.root-servers.net.
+.                       35515   IN      NS      c.root-servers.net.
+.                       35515   IN      NS      i.root-servers.net.
+.                       35515   IN      NS      h.root-servers.net.
+.                       35515   IN      NS      l.root-servers.net.
+.                       35515   IN      NS      m.root-servers.net.
+.                       35515   IN      NS      j.root-servers.net.
+.                       35515   IN      NS      f.root-servers.net.
+.                       35515   IN      NS      b.root-servers.net.
+.                       35515   IN      NS      k.root-servers.net.
+.                       35515   IN      NS      g.root-servers.net.
+.                       35515   IN      NS      e.root-servers.net.
+.                       35515   IN      NS      d.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122597  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121993  IN      AAAA    2001:500:12::d0d"
+118,gla.ac.uk,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52822
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;gla.ac.uk.                     IN      A
+;; ANSWER SECTION:
+gla.ac.uk.              596     IN      A       130.209.16.93
+;; AUTHORITY SECTION:
+.                       35512   IN      NS      f.root-servers.net.
+.                       35512   IN      NS      b.root-servers.net.
+.                       35512   IN      NS      c.root-servers.net.
+.                       35512   IN      NS      j.root-servers.net.
+.                       35512   IN      NS      i.root-servers.net.
+.                       35512   IN      NS      g.root-servers.net.
+.                       35512   IN      NS      h.root-servers.net.
+.                       35512   IN      NS      m.root-servers.net.
+.                       35512   IN      NS      l.root-servers.net.
+.                       35512   IN      NS      e.root-servers.net.
+.                       35512   IN      NS      k.root-servers.net.
+.                       35512   IN      NS      d.root-servers.net.
+.                       35512   IN      NS      a.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122594  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121990  IN      AAAA    2001:500:12::d0d"
+119,gla.ac.uk,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 52822
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;gla.ac.uk.                     IN      A
+;; ANSWER SECTION:
+gla.ac.uk.              588     IN      A       130.209.16.93
+;; AUTHORITY SECTION:
+.                       35504   IN      NS      m.root-servers.net.
+.                       35504   IN      NS      f.root-servers.net.
+.                       35504   IN      NS      c.root-servers.net.
+.                       35504   IN      NS      e.root-servers.net.
+.                       35504   IN      NS      d.root-servers.net.
+.                       35504   IN      NS      l.root-servers.net.
+.                       35504   IN      NS      i.root-servers.net.
+.                       35504   IN      NS      h.root-servers.net.
+.                       35504   IN      NS      b.root-servers.net.
+.                       35504   IN      NS      j.root-servers.net.
+.                       35504   IN      NS      k.root-servers.net.
+.                       35504   IN      NS      g.root-servers.net.
+.                       35504   IN      NS      a.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122586  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121982  IN      AAAA    2001:500:12::d0d"
+120,cornell.edu,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45103
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;cornell.edu.                   IN      A
+;; ANSWER SECTION:
+cornell.edu.            3328    IN      A       128.253.173.248
+cornell.edu.            3328    IN      A       128.253.173.245
+cornell.edu.            3328    IN      A       128.253.173.247
+cornell.edu.            3328    IN      A       128.253.173.242"
+121,cornell.edu,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45103
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;cornell.edu.                   IN      A
+;; ANSWER SECTION:
+cornell.edu.            10799   IN      A       128.253.173.248
+cornell.edu.            10799   IN      A       128.253.173.242
+cornell.edu.            10799   IN      A       128.253.173.245
+cornell.edu.            10799   IN      A       128.253.173.247"
+122,cornell.edu,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45103
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;cornell.edu.                   IN      A
+;; ANSWER SECTION:
+cornell.edu.            10799   IN      A       128.253.173.245
+cornell.edu.            10799   IN      A       128.253.173.248
+cornell.edu.            10799   IN      A       128.253.173.242
+cornell.edu.            10799   IN      A       128.253.173.247
+;; AUTHORITY SECTION:
+.                       35491   IN      NS      k.root-servers.net.
+.                       35491   IN      NS      f.root-servers.net.
+.                       35491   IN      NS      d.root-servers.net.
+.                       35491   IN      NS      m.root-servers.net.
+.                       35491   IN      NS      l.root-servers.net.
+.                       35491   IN      NS      a.root-servers.net.
+.                       35491   IN      NS      g.root-servers.net.
+.                       35491   IN      NS      j.root-servers.net.
+.                       35491   IN      NS      e.root-servers.net.
+.                       35491   IN      NS      b.root-servers.net.
+.                       35491   IN      NS      i.root-servers.net.
+.                       35491   IN      NS      h.root-servers.net.
+.                       35491   IN      NS      c.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122573  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121969  IN      AAAA    2001:500:12::d0d"
+123,cornell.edu,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45103
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;cornell.edu.                   IN      A
+;; ANSWER SECTION:
+cornell.edu.            10799   IN      A       128.253.173.248
+cornell.edu.            10799   IN      A       128.253.173.242
+cornell.edu.            10799   IN      A       128.253.173.245
+cornell.edu.            10799   IN      A       128.253.173.247
+;; AUTHORITY SECTION:
+.                       35491   IN      NS      j.root-servers.net.
+.                       35491   IN      NS      c.root-servers.net.
+.                       35491   IN      NS      d.root-servers.net.
+.                       35491   IN      NS      l.root-servers.net.
+.                       35491   IN      NS      a.root-servers.net.
+.                       35491   IN      NS      e.root-servers.net.
+.                       35491   IN      NS      f.root-servers.net.
+.                       35491   IN      NS      i.root-servers.net.
+.                       35491   IN      NS      b.root-servers.net.
+.                       35491   IN      NS      h.root-servers.net.
+.                       35491   IN      NS      k.root-servers.net.
+.                       35491   IN      NS      g.root-servers.net.
+.                       35491   IN      NS      m.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122573  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121969  IN      AAAA    2001:500:12::d0d"
+124,cornell.edu,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45103
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;cornell.edu.                   IN      A
+;; ANSWER SECTION:
+cornell.edu.            10798   IN      A       128.253.173.242
+cornell.edu.            10798   IN      A       128.253.173.247
+cornell.edu.            10798   IN      A       128.253.173.248
+cornell.edu.            10798   IN      A       128.253.173.245
+;; AUTHORITY SECTION:
+.                       35490   IN      NS      m.root-servers.net.
+.                       35490   IN      NS      j.root-servers.net.
+.                       35490   IN      NS      g.root-servers.net.
+.                       35490   IN      NS      b.root-servers.net.
+.                       35490   IN      NS      f.root-servers.net.
+.                       35490   IN      NS      e.root-servers.net.
+.                       35490   IN      NS      l.root-servers.net.
+.                       35490   IN      NS      a.root-servers.net.
+.                       35490   IN      NS      h.root-servers.net.
+.                       35490   IN      NS      c.root-servers.net.
+.                       35490   IN      NS      k.root-servers.net.
+.                       35490   IN      NS      i.root-servers.net.
+.                       35490   IN      NS      d.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122572  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121968  IN      AAAA    2001:500:12::d0d"
+125,nyu.edu,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20441
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;nyu.edu.                       IN      A
+;; ANSWER SECTION:
+nyu.edu.                14      IN      A       216.165.47.10"
+126,nyu.edu,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20441
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;nyu.edu.                       IN      A
+;; ANSWER SECTION:
+nyu.edu.                59      IN      A       216.165.47.10"
+127,nyu.edu,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20441
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;nyu.edu.                       IN      A
+;; ANSWER SECTION:
+nyu.edu.                59      IN      A       216.165.47.10
+;; AUTHORITY SECTION:
+.                       35487   IN      NS      g.root-servers.net.
+.                       35487   IN      NS      h.root-servers.net.
+.                       35487   IN      NS      b.root-servers.net.
+.                       35487   IN      NS      a.root-servers.net.
+.                       35487   IN      NS      m.root-servers.net.
+.                       35487   IN      NS      l.root-servers.net.
+.                       35487   IN      NS      k.root-servers.net.
+.                       35487   IN      NS      d.root-servers.net.
+.                       35487   IN      NS      f.root-servers.net.
+.                       35487   IN      NS      c.root-servers.net.
+.                       35487   IN      NS      e.root-servers.net.
+.                       35487   IN      NS      i.root-servers.net.
+.                       35487   IN      NS      j.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122569  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121965  IN      AAAA    2001:500:12::d0d"
+128,nyu.edu,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20441
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;nyu.edu.                       IN      A
+;; ANSWER SECTION:
+nyu.edu.                57      IN      A       216.165.47.10
+;; AUTHORITY SECTION:
+.                       35485   IN      NS      e.root-servers.net.
+.                       35485   IN      NS      j.root-servers.net.
+.                       35485   IN      NS      f.root-servers.net.
+.                       35485   IN      NS      c.root-servers.net.
+.                       35485   IN      NS      d.root-servers.net.
+.                       35485   IN      NS      m.root-servers.net.
+.                       35485   IN      NS      b.root-servers.net.
+.                       35485   IN      NS      k.root-servers.net.
+.                       35485   IN      NS      g.root-servers.net.
+.                       35485   IN      NS      l.root-servers.net.
+.                       35485   IN      NS      h.root-servers.net.
+.                       35485   IN      NS      i.root-servers.net.
+.                       35485   IN      NS      a.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122567  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121963  IN      AAAA    2001:500:12::d0d"
+129,nyu.edu,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 20441
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;nyu.edu.                       IN      A
+;; ANSWER SECTION:
+nyu.edu.                56      IN      A       216.165.47.10
+;; AUTHORITY SECTION:
+.                       35484   IN      NS      b.root-servers.net.
+.                       35484   IN      NS      f.root-servers.net.
+.                       35484   IN      NS      m.root-servers.net.
+.                       35484   IN      NS      h.root-servers.net.
+.                       35484   IN      NS      d.root-servers.net.
+.                       35484   IN      NS      g.root-servers.net.
+.                       35484   IN      NS      i.root-servers.net.
+.                       35484   IN      NS      a.root-servers.net.
+.                       35484   IN      NS      c.root-servers.net.
+.                       35484   IN      NS      k.root-servers.net.
+.                       35484   IN      NS      l.root-servers.net.
+.                       35484   IN      NS      e.root-servers.net.
+.                       35484   IN      NS      j.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122566  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121962  IN      AAAA    2001:500:12::d0d"
+130,slu.edu,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14061
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;slu.edu.                       IN      A
+;; ANSWER SECTION:
+slu.edu.                300     IN      A       173.213.236.59"
+131,slu.edu,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14061
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;slu.edu.                       IN      A
+;; ANSWER SECTION:
+slu.edu.                299     IN      A       173.213.236.59"
+132,slu.edu,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14061
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;slu.edu.                       IN      A
+;; ANSWER SECTION:
+slu.edu.                299     IN      A       173.213.236.59
+;; AUTHORITY SECTION:
+.                       35476   IN      NS      d.root-servers.net.
+.                       35476   IN      NS      f.root-servers.net.
+.                       35476   IN      NS      h.root-servers.net.
+.                       35476   IN      NS      b.root-servers.net.
+.                       35476   IN      NS      j.root-servers.net.
+.                       35476   IN      NS      g.root-servers.net.
+.                       35476   IN      NS      k.root-servers.net.
+.                       35476   IN      NS      e.root-servers.net.
+.                       35476   IN      NS      m.root-servers.net.
+.                       35476   IN      NS      i.root-servers.net.
+.                       35476   IN      NS      l.root-servers.net.
+.                       35476   IN      NS      a.root-servers.net.
+.                       35476   IN      NS      c.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122558  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121954  IN      AAAA    2001:500:12::d0d"
+133,slu.edu,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14061
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;slu.edu.                       IN      A
+;; ANSWER SECTION:
+slu.edu.                299     IN      A       173.213.236.59
+;; AUTHORITY SECTION:
+.                       35476   IN      NS      d.root-servers.net.
+.                       35476   IN      NS      b.root-servers.net.
+.                       35476   IN      NS      k.root-servers.net.
+.                       35476   IN      NS      c.root-servers.net.
+.                       35476   IN      NS      l.root-servers.net.
+.                       35476   IN      NS      a.root-servers.net.
+.                       35476   IN      NS      j.root-servers.net.
+.                       35476   IN      NS      g.root-servers.net.
+.                       35476   IN      NS      m.root-servers.net.
+.                       35476   IN      NS      e.root-servers.net.
+.                       35476   IN      NS      f.root-servers.net.
+.                       35476   IN      NS      h.root-servers.net.
+.                       35476   IN      NS      i.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122558  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121954  IN      AAAA    2001:500:12::d0d"
+134,slu.edu,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 14061
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 2
+;; QUESTION SECTION:
+;slu.edu.                       IN      A
+;; ANSWER SECTION:
+slu.edu.                299     IN      A       173.213.236.59
+;; AUTHORITY SECTION:
+.                       35476   IN      NS      k.root-servers.net.
+.                       35476   IN      NS      d.root-servers.net.
+.                       35476   IN      NS      l.root-servers.net.
+.                       35476   IN      NS      b.root-servers.net.
+.                       35476   IN      NS      g.root-servers.net.
+.                       35476   IN      NS      f.root-servers.net.
+.                       35476   IN      NS      c.root-servers.net.
+.                       35476   IN      NS      a.root-servers.net.
+.                       35476   IN      NS      i.root-servers.net.
+.                       35476   IN      NS      e.root-servers.net.
+.                       35476   IN      NS      m.root-servers.net.
+.                       35476   IN      NS      h.root-servers.net.
+.                       35476   IN      NS      j.root-servers.net.
+;; ADDITIONAL SECTION:
+E.ROOT-SERVERS.net.     122558  IN      AAAA    2001:500:a8::e
+G.ROOT-SERVERS.net.     121954  IN      AAAA    2001:500:12::d0d"
+135,penguin.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34852
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;penguin.com.                   IN      A
+;; ANSWER SECTION:
+penguin.com.            300     IN      A       170.171.208.122"
+136,penguin.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34852
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;penguin.com.                   IN      A
+;; ANSWER SECTION:
+penguin.com.            299     IN      A       170.171.208.122"
+137,penguin.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34852
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;penguin.com.                   IN      A
+;; ANSWER SECTION:
+penguin.com.            299     IN      A       170.171.208.122
+;; AUTHORITY SECTION:
+com.                    42296   IN      NS      a.gtld-servers.net.
+com.                    42296   IN      NS      f.gtld-servers.net.
+com.                    42296   IN      NS      j.gtld-servers.net.
+com.                    42296   IN      NS      m.gtld-servers.net.
+com.                    42296   IN      NS      b.gtld-servers.net.
+com.                    42296   IN      NS      g.gtld-servers.net.
+com.                    42296   IN      NS      i.gtld-servers.net.
+com.                    42296   IN      NS      h.gtld-servers.net.
+com.                    42296   IN      NS      e.gtld-servers.net.
+com.                    42296   IN      NS      d.gtld-servers.net.
+com.                    42296   IN      NS      c.gtld-servers.net.
+com.                    42296   IN      NS      l.gtld-servers.net.
+com.                    42296   IN      NS      k.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40943   IN      A       192.5.6.30
+a.gtld-servers.net.     40943   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40943   IN      A       192.33.14.30
+b.gtld-servers.net.     40943   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40943   IN      A       192.26.92.30
+c.gtld-servers.net.     40943   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40943   IN      A       192.31.80.30
+d.gtld-servers.net.     40943   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40943   IN      A       192.12.94.30
+e.gtld-servers.net.     40943   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40943   IN      A       192.35.51.30"
+138,penguin.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34852
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;penguin.com.                   IN      A
+;; ANSWER SECTION:
+penguin.com.            299     IN      A       170.171.208.122
+;; AUTHORITY SECTION:
+com.                    42296   IN      NS      h.gtld-servers.net.
+com.                    42296   IN      NS      j.gtld-servers.net.
+com.                    42296   IN      NS      d.gtld-servers.net.
+com.                    42296   IN      NS      g.gtld-servers.net.
+com.                    42296   IN      NS      b.gtld-servers.net.
+com.                    42296   IN      NS      c.gtld-servers.net.
+com.                    42296   IN      NS      i.gtld-servers.net.
+com.                    42296   IN      NS      k.gtld-servers.net.
+com.                    42296   IN      NS      m.gtld-servers.net.
+com.                    42296   IN      NS      f.gtld-servers.net.
+com.                    42296   IN      NS      l.gtld-servers.net.
+com.                    42296   IN      NS      a.gtld-servers.net.
+com.                    42296   IN      NS      e.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40943   IN      A       192.5.6.30
+a.gtld-servers.net.     40943   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40943   IN      A       192.33.14.30
+b.gtld-servers.net.     40943   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40943   IN      A       192.26.92.30
+c.gtld-servers.net.     40943   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40943   IN      A       192.31.80.30
+d.gtld-servers.net.     40943   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40943   IN      A       192.12.94.30
+e.gtld-servers.net.     40943   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40943   IN      A       192.35.51.30"
+139,penguin.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 34852
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;penguin.com.                   IN      A
+;; ANSWER SECTION:
+penguin.com.            298     IN      A       170.171.208.122
+;; AUTHORITY SECTION:
+com.                    42295   IN      NS      i.gtld-servers.net.
+com.                    42295   IN      NS      h.gtld-servers.net.
+com.                    42295   IN      NS      e.gtld-servers.net.
+com.                    42295   IN      NS      k.gtld-servers.net.
+com.                    42295   IN      NS      f.gtld-servers.net.
+com.                    42295   IN      NS      a.gtld-servers.net.
+com.                    42295   IN      NS      b.gtld-servers.net.
+com.                    42295   IN      NS      c.gtld-servers.net.
+com.                    42295   IN      NS      j.gtld-servers.net.
+com.                    42295   IN      NS      d.gtld-servers.net.
+com.                    42295   IN      NS      l.gtld-servers.net.
+com.                    42295   IN      NS      g.gtld-servers.net.
+com.                    42295   IN      NS      m.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40942   IN      A       192.5.6.30
+a.gtld-servers.net.     40942   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40942   IN      A       192.33.14.30
+b.gtld-servers.net.     40942   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40942   IN      A       192.26.92.30
+c.gtld-servers.net.     40942   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40942   IN      A       192.31.80.30
+d.gtld-servers.net.     40942   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40942   IN      A       192.12.94.30
+e.gtld-servers.net.     40942   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40942   IN      A       192.35.51.30"
+140,aynrand.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4529
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;aynrand.com.                   IN      A
+;; ANSWER SECTION:
+aynrand.com.            900     IN      A       64.98.145.30"
+141,aynrand.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4529
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;aynrand.com.                   IN      A
+;; ANSWER SECTION:
+aynrand.com.            165     IN      A       64.98.145.30"
+142,aynrand.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4529
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;aynrand.com.                   IN      A
+;; ANSWER SECTION:
+aynrand.com.            164     IN      A       64.98.145.30
+;; AUTHORITY SECTION:
+com.                    42289   IN      NS      f.gtld-servers.net.
+com.                    42289   IN      NS      g.gtld-servers.net.
+com.                    42289   IN      NS      k.gtld-servers.net.
+com.                    42289   IN      NS      c.gtld-servers.net.
+com.                    42289   IN      NS      b.gtld-servers.net.
+com.                    42289   IN      NS      j.gtld-servers.net.
+com.                    42289   IN      NS      h.gtld-servers.net.
+com.                    42289   IN      NS      i.gtld-servers.net.
+com.                    42289   IN      NS      l.gtld-servers.net.
+com.                    42289   IN      NS      e.gtld-servers.net.
+com.                    42289   IN      NS      d.gtld-servers.net.
+com.                    42289   IN      NS      a.gtld-servers.net.
+com.                    42289   IN      NS      m.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40936   IN      A       192.5.6.30
+a.gtld-servers.net.     40936   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40936   IN      A       192.33.14.30
+b.gtld-servers.net.     40936   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40936   IN      A       192.26.92.30
+c.gtld-servers.net.     40936   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40936   IN      A       192.31.80.30
+d.gtld-servers.net.     40936   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40936   IN      A       192.12.94.30
+e.gtld-servers.net.     40936   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40936   IN      A       192.35.51.30"
+143,aynrand.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4529
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;aynrand.com.                   IN      A
+;; ANSWER SECTION:
+aynrand.com.            164     IN      A       64.98.145.30
+;; AUTHORITY SECTION:
+com.                    42289   IN      NS      g.gtld-servers.net.
+com.                    42289   IN      NS      j.gtld-servers.net.
+com.                    42289   IN      NS      k.gtld-servers.net.
+com.                    42289   IN      NS      h.gtld-servers.net.
+com.                    42289   IN      NS      b.gtld-servers.net.
+com.                    42289   IN      NS      i.gtld-servers.net.
+com.                    42289   IN      NS      m.gtld-servers.net.
+com.                    42289   IN      NS      e.gtld-servers.net.
+com.                    42289   IN      NS      c.gtld-servers.net.
+com.                    42289   IN      NS      f.gtld-servers.net.
+com.                    42289   IN      NS      d.gtld-servers.net.
+com.                    42289   IN      NS      a.gtld-servers.net.
+com.                    42289   IN      NS      l.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40936   IN      A       192.5.6.30
+a.gtld-servers.net.     40936   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40936   IN      A       192.33.14.30
+b.gtld-servers.net.     40936   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40936   IN      A       192.26.92.30
+c.gtld-servers.net.     40936   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40936   IN      A       192.31.80.30
+d.gtld-servers.net.     40936   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40936   IN      A       192.12.94.30
+e.gtld-servers.net.     40936   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40936   IN      A       192.35.51.30"
+144,aynrand.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 4529
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;aynrand.com.                   IN      A
+;; ANSWER SECTION:
+aynrand.com.            163     IN      A       64.98.145.30
+;; AUTHORITY SECTION:
+com.                    42288   IN      NS      i.gtld-servers.net.
+com.                    42288   IN      NS      g.gtld-servers.net.
+com.                    42288   IN      NS      k.gtld-servers.net.
+com.                    42288   IN      NS      j.gtld-servers.net.
+com.                    42288   IN      NS      m.gtld-servers.net.
+com.                    42288   IN      NS      h.gtld-servers.net.
+com.                    42288   IN      NS      b.gtld-servers.net.
+com.                    42288   IN      NS      d.gtld-servers.net.
+com.                    42288   IN      NS      a.gtld-servers.net.
+com.                    42288   IN      NS      c.gtld-servers.net.
+com.                    42288   IN      NS      f.gtld-servers.net.
+com.                    42288   IN      NS      e.gtld-servers.net.
+com.                    42288   IN      NS      l.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40935   IN      A       192.5.6.30
+a.gtld-servers.net.     40935   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40935   IN      A       192.33.14.30
+b.gtld-servers.net.     40935   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40935   IN      A       192.26.92.30
+c.gtld-servers.net.     40935   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40935   IN      A       192.31.80.30
+d.gtld-servers.net.     40935   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40935   IN      A       192.12.94.30
+e.gtld-servers.net.     40935   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40935   IN      A       192.35.51.30"
+145,https://www.harpercollins.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 5304
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.harpercollins.com. IN      A
+;; AUTHORITY SECTION:
+harpercollins.com.      21600   IN      SOA     dbru.br.ns.els-gms.att.net. rm-hostmaster.ems.att.com. 438 21600 3600 1728000 21600"
+146,https://www.harpercollins.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 5304
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.harpercollins.com. IN      A
+;; AUTHORITY SECTION:
+harpercollins.com.      1799    IN      SOA     dbru.br.ns.els-gms.att.net. rm-hostmaster.ems.att.com. 438 21600 3600 1728000 21600"
+147,https://www.harpercollins.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 5304
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.harpercollins.com. IN      A
+;; AUTHORITY SECTION:
+harpercollins.com.      1799    IN      SOA     dbru.br.ns.els-gms.att.net. rm-hostmaster.ems.att.com. 438 21600 3600 1728000 21600"
+148,https://www.harpercollins.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 5304
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.harpercollins.com. IN      A
+;; AUTHORITY SECTION:
+harpercollins.com.      1798    IN      SOA     dbru.br.ns.els-gms.att.net. rm-hostmaster.ems.att.com. 438 21600 3600 1728000 21600"
+149,https://www.harpercollins.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NXDOMAIN, id: 5304
+;; flags: qr rd ra; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 0
+;; QUESTION SECTION:
+;https://www.harpercollins.com. IN      A
+;; AUTHORITY SECTION:
+harpercollins.com.      1797    IN      SOA     dbru.br.ns.els-gms.att.net. rm-hostmaster.ems.att.com. 438 21600 3600 1728000 21600"
+150,expedia.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19935
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;expedia.com.                   IN      A
+;; ANSWER SECTION:
+expedia.com.            60      IN      A       52.40.56.178
+expedia.com.            60      IN      A       52.26.234.148"
+151,expedia.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19935
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;expedia.com.                   IN      A
+;; ANSWER SECTION:
+expedia.com.            59      IN      A       52.26.234.148
+expedia.com.            59      IN      A       52.40.56.178"
+152,expedia.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19935
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;expedia.com.                   IN      A
+;; ANSWER SECTION:
+expedia.com.            59      IN      A       52.26.234.148
+expedia.com.            59      IN      A       52.40.56.178
+;; AUTHORITY SECTION:
+com.                    42274   IN      NS      j.gtld-servers.net.
+com.                    42274   IN      NS      b.gtld-servers.net.
+com.                    42274   IN      NS      m.gtld-servers.net.
+com.                    42274   IN      NS      e.gtld-servers.net.
+com.                    42274   IN      NS      i.gtld-servers.net.
+com.                    42274   IN      NS      d.gtld-servers.net.
+com.                    42274   IN      NS      c.gtld-servers.net.
+com.                    42274   IN      NS      k.gtld-servers.net.
+com.                    42274   IN      NS      g.gtld-servers.net.
+com.                    42274   IN      NS      a.gtld-servers.net.
+com.                    42274   IN      NS      f.gtld-servers.net.
+com.                    42274   IN      NS      l.gtld-servers.net.
+com.                    42274   IN      NS      h.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40921   IN      A       192.5.6.30
+a.gtld-servers.net.     40921   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40921   IN      A       192.33.14.30
+b.gtld-servers.net.     40921   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40921   IN      A       192.26.92.30
+c.gtld-servers.net.     40921   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40921   IN      A       192.31.80.30
+d.gtld-servers.net.     40921   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40921   IN      A       192.12.94.30
+e.gtld-servers.net.     40921   IN      AAAA    2001:502:1ca1::30"
+153,expedia.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19935
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;expedia.com.                   IN      A
+;; ANSWER SECTION:
+expedia.com.            58      IN      A       52.40.56.178
+expedia.com.            58      IN      A       52.26.234.148
+;; AUTHORITY SECTION:
+com.                    42273   IN      NS      m.gtld-servers.net.
+com.                    42273   IN      NS      g.gtld-servers.net.
+com.                    42273   IN      NS      f.gtld-servers.net.
+com.                    42273   IN      NS      l.gtld-servers.net.
+com.                    42273   IN      NS      j.gtld-servers.net.
+com.                    42273   IN      NS      d.gtld-servers.net.
+com.                    42273   IN      NS      h.gtld-servers.net.
+com.                    42273   IN      NS      k.gtld-servers.net.
+com.                    42273   IN      NS      b.gtld-servers.net.
+com.                    42273   IN      NS      e.gtld-servers.net.
+com.                    42273   IN      NS      c.gtld-servers.net.
+com.                    42273   IN      NS      i.gtld-servers.net.
+com.                    42273   IN      NS      a.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40920   IN      A       192.5.6.30
+a.gtld-servers.net.     40920   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40920   IN      A       192.33.14.30
+b.gtld-servers.net.     40920   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40920   IN      A       192.26.92.30
+c.gtld-servers.net.     40920   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40920   IN      A       192.31.80.30
+d.gtld-servers.net.     40920   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40920   IN      A       192.12.94.30
+e.gtld-servers.net.     40920   IN      AAAA    2001:502:1ca1::30"
+154,expedia.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 19935
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;expedia.com.                   IN      A
+;; ANSWER SECTION:
+expedia.com.            58      IN      A       52.40.56.178
+expedia.com.            58      IN      A       52.26.234.148
+;; AUTHORITY SECTION:
+com.                    42273   IN      NS      m.gtld-servers.net.
+com.                    42273   IN      NS      j.gtld-servers.net.
+com.                    42273   IN      NS      d.gtld-servers.net.
+com.                    42273   IN      NS      e.gtld-servers.net.
+com.                    42273   IN      NS      a.gtld-servers.net.
+com.                    42273   IN      NS      l.gtld-servers.net.
+com.                    42273   IN      NS      i.gtld-servers.net.
+com.                    42273   IN      NS      f.gtld-servers.net.
+com.                    42273   IN      NS      c.gtld-servers.net.
+com.                    42273   IN      NS      h.gtld-servers.net.
+com.                    42273   IN      NS      b.gtld-servers.net.
+com.                    42273   IN      NS      g.gtld-servers.net.
+com.                    42273   IN      NS      k.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40920   IN      A       192.5.6.30
+a.gtld-servers.net.     40920   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40920   IN      A       192.33.14.30
+b.gtld-servers.net.     40920   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40920   IN      A       192.26.92.30
+c.gtld-servers.net.     40920   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40920   IN      A       192.31.80.30
+d.gtld-servers.net.     40920   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40920   IN      A       192.12.94.30
+e.gtld-servers.net.     40920   IN      AAAA    2001:502:1ca1::30"
+155,makemytrip.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54861
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;makemytrip.com.                IN      A
+;; ANSWER SECTION:
+makemytrip.com.         469     IN      A       13.126.188.43
+makemytrip.com.         469     IN      A       13.127.39.115"
+156,makemytrip.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54861
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;makemytrip.com.                IN      A
+;; ANSWER SECTION:
+makemytrip.com.         899     IN      A       13.127.39.115
+makemytrip.com.         899     IN      A       13.126.188.43"
+157,makemytrip.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54861
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;makemytrip.com.                IN      A
+;; ANSWER SECTION:
+makemytrip.com.         899     IN      A       13.126.188.43
+makemytrip.com.         899     IN      A       13.127.39.115
+;; AUTHORITY SECTION:
+com.                    42265   IN      NS      k.gtld-servers.net.
+com.                    42265   IN      NS      b.gtld-servers.net.
+com.                    42265   IN      NS      e.gtld-servers.net.
+com.                    42265   IN      NS      l.gtld-servers.net.
+com.                    42265   IN      NS      f.gtld-servers.net.
+com.                    42265   IN      NS      j.gtld-servers.net.
+com.                    42265   IN      NS      d.gtld-servers.net.
+com.                    42265   IN      NS      h.gtld-servers.net.
+com.                    42265   IN      NS      i.gtld-servers.net.
+com.                    42265   IN      NS      a.gtld-servers.net.
+com.                    42265   IN      NS      m.gtld-servers.net.
+com.                    42265   IN      NS      g.gtld-servers.net.
+com.                    42265   IN      NS      c.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40912   IN      A       192.5.6.30
+a.gtld-servers.net.     40912   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40912   IN      A       192.33.14.30
+b.gtld-servers.net.     40912   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40912   IN      A       192.26.92.30
+c.gtld-servers.net.     40912   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40912   IN      A       192.31.80.30
+d.gtld-servers.net.     40912   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40912   IN      A       192.12.94.30
+e.gtld-servers.net.     40912   IN      AAAA    2001:502:1ca1::30"
+158,makemytrip.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54861
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;makemytrip.com.                IN      A
+;; ANSWER SECTION:
+makemytrip.com.         898     IN      A       13.126.188.43
+makemytrip.com.         898     IN      A       13.127.39.115
+;; AUTHORITY SECTION:
+com.                    42264   IN      NS      l.gtld-servers.net.
+com.                    42264   IN      NS      f.gtld-servers.net.
+com.                    42264   IN      NS      c.gtld-servers.net.
+com.                    42264   IN      NS      e.gtld-servers.net.
+com.                    42264   IN      NS      h.gtld-servers.net.
+com.                    42264   IN      NS      m.gtld-servers.net.
+com.                    42264   IN      NS      b.gtld-servers.net.
+com.                    42264   IN      NS      g.gtld-servers.net.
+com.                    42264   IN      NS      a.gtld-servers.net.
+com.                    42264   IN      NS      d.gtld-servers.net.
+com.                    42264   IN      NS      k.gtld-servers.net.
+com.                    42264   IN      NS      i.gtld-servers.net.
+com.                    42264   IN      NS      j.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40911   IN      A       192.5.6.30
+a.gtld-servers.net.     40911   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40911   IN      A       192.33.14.30
+b.gtld-servers.net.     40911   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40911   IN      A       192.26.92.30
+c.gtld-servers.net.     40911   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40911   IN      A       192.31.80.30
+d.gtld-servers.net.     40911   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40911   IN      A       192.12.94.30
+e.gtld-servers.net.     40911   IN      AAAA    2001:502:1ca1::30"
+159,makemytrip.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 54861
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;makemytrip.com.                IN      A
+;; ANSWER SECTION:
+makemytrip.com.         898     IN      A       13.127.39.115
+makemytrip.com.         898     IN      A       13.126.188.43
+;; AUTHORITY SECTION:
+com.                    42264   IN      NS      f.gtld-servers.net.
+com.                    42264   IN      NS      i.gtld-servers.net.
+com.                    42264   IN      NS      l.gtld-servers.net.
+com.                    42264   IN      NS      b.gtld-servers.net.
+com.                    42264   IN      NS      g.gtld-servers.net.
+com.                    42264   IN      NS      c.gtld-servers.net.
+com.                    42264   IN      NS      e.gtld-servers.net.
+com.                    42264   IN      NS      j.gtld-servers.net.
+com.                    42264   IN      NS      k.gtld-servers.net.
+com.                    42264   IN      NS      d.gtld-servers.net.
+com.                    42264   IN      NS      a.gtld-servers.net.
+com.                    42264   IN      NS      h.gtld-servers.net.
+com.                    42264   IN      NS      m.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40911   IN      A       192.5.6.30
+a.gtld-servers.net.     40911   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40911   IN      A       192.33.14.30
+b.gtld-servers.net.     40911   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40911   IN      A       192.26.92.30
+c.gtld-servers.net.     40911   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40911   IN      A       192.31.80.30
+d.gtld-servers.net.     40911   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40911   IN      A       192.12.94.30
+e.gtld-servers.net.     40911   IN      AAAA    2001:502:1ca1::30"
+160,airbnb.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15337
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;airbnb.com.                    IN      A
+;; ANSWER SECTION:
+airbnb.com.             18      IN      A       34.198.62.11
+airbnb.com.             18      IN      A       52.3.177.15
+airbnb.com.             18      IN      A       3.224.3.59"
+161,airbnb.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15337
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;airbnb.com.                    IN      A
+;; ANSWER SECTION:
+airbnb.com.             36      IN      A       3.224.3.59
+airbnb.com.             36      IN      A       34.198.62.11
+airbnb.com.             36      IN      A       52.3.177.15"
+162,airbnb.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15337
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;airbnb.com.                    IN      A
+;; ANSWER SECTION:
+airbnb.com.             13      IN      A       52.3.177.15
+airbnb.com.             13      IN      A       3.224.3.59
+airbnb.com.             13      IN      A       34.198.62.11
+;; AUTHORITY SECTION:
+com.                    42258   IN      NS      k.gtld-servers.net.
+com.                    42258   IN      NS      c.gtld-servers.net.
+com.                    42258   IN      NS      e.gtld-servers.net.
+com.                    42258   IN      NS      h.gtld-servers.net.
+com.                    42258   IN      NS      i.gtld-servers.net.
+com.                    42258   IN      NS      l.gtld-servers.net.
+com.                    42258   IN      NS      b.gtld-servers.net.
+com.                    42258   IN      NS      f.gtld-servers.net.
+com.                    42258   IN      NS      j.gtld-servers.net.
+com.                    42258   IN      NS      g.gtld-servers.net.
+com.                    42258   IN      NS      a.gtld-servers.net.
+com.                    42258   IN      NS      m.gtld-servers.net.
+com.                    42258   IN      NS      d.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40905   IN      A       192.5.6.30
+a.gtld-servers.net.     40905   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40905   IN      A       192.33.14.30
+b.gtld-servers.net.     40905   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40905   IN      A       192.26.92.30
+c.gtld-servers.net.     40905   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40905   IN      A       192.31.80.30
+d.gtld-servers.net.     40905   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40905   IN      A       192.12.94.30"
+163,airbnb.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15337
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;airbnb.com.                    IN      A
+;; ANSWER SECTION:
+airbnb.com.             13      IN      A       34.198.62.11
+airbnb.com.             13      IN      A       52.3.177.15
+airbnb.com.             13      IN      A       3.224.3.59
+;; AUTHORITY SECTION:
+com.                    42258   IN      NS      c.gtld-servers.net.
+com.                    42258   IN      NS      f.gtld-servers.net.
+com.                    42258   IN      NS      i.gtld-servers.net.
+com.                    42258   IN      NS      m.gtld-servers.net.
+com.                    42258   IN      NS      h.gtld-servers.net.
+com.                    42258   IN      NS      d.gtld-servers.net.
+com.                    42258   IN      NS      g.gtld-servers.net.
+com.                    42258   IN      NS      l.gtld-servers.net.
+com.                    42258   IN      NS      e.gtld-servers.net.
+com.                    42258   IN      NS      k.gtld-servers.net.
+com.                    42258   IN      NS      j.gtld-servers.net.
+com.                    42258   IN      NS      a.gtld-servers.net.
+com.                    42258   IN      NS      b.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40905   IN      A       192.5.6.30
+a.gtld-servers.net.     40905   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40905   IN      A       192.33.14.30
+b.gtld-servers.net.     40905   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40905   IN      A       192.26.92.30
+c.gtld-servers.net.     40905   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40905   IN      A       192.31.80.30
+d.gtld-servers.net.     40905   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40905   IN      A       192.12.94.30"
+164,airbnb.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15337
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;airbnb.com.                    IN      A
+;; ANSWER SECTION:
+airbnb.com.             12      IN      A       3.224.3.59
+airbnb.com.             12      IN      A       34.198.62.11
+airbnb.com.             12      IN      A       52.3.177.15
+;; AUTHORITY SECTION:
+com.                    42257   IN      NS      d.gtld-servers.net.
+com.                    42257   IN      NS      c.gtld-servers.net.
+com.                    42257   IN      NS      b.gtld-servers.net.
+com.                    42257   IN      NS      g.gtld-servers.net.
+com.                    42257   IN      NS      i.gtld-servers.net.
+com.                    42257   IN      NS      m.gtld-servers.net.
+com.                    42257   IN      NS      e.gtld-servers.net.
+com.                    42257   IN      NS      h.gtld-servers.net.
+com.                    42257   IN      NS      f.gtld-servers.net.
+com.                    42257   IN      NS      l.gtld-servers.net.
+com.                    42257   IN      NS      k.gtld-servers.net.
+com.                    42257   IN      NS      j.gtld-servers.net.
+com.                    42257   IN      NS      a.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40904   IN      A       192.5.6.30
+a.gtld-servers.net.     40904   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40904   IN      A       192.33.14.30
+b.gtld-servers.net.     40904   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40904   IN      A       192.26.92.30
+c.gtld-servers.net.     40904   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40904   IN      A       192.31.80.30
+d.gtld-servers.net.     40904   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40904   IN      A       192.12.94.30"
+165,shein.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27616
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;shein.com.                     IN      A
+;; ANSWER SECTION:
+shein.com.              926     IN      A       35.162.69.199
+shein.com.              926     IN      A       52.32.174.111"
+166,shein.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27616
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;shein.com.                     IN      A
+;; ANSWER SECTION:
+shein.com.              3599    IN      A       35.162.69.199
+shein.com.              3599    IN      A       52.32.174.111"
+167,shein.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27616
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;shein.com.                     IN      A
+;; ANSWER SECTION:
+shein.com.              3599    IN      A       35.162.69.199
+shein.com.              3599    IN      A       52.32.174.111
+;; AUTHORITY SECTION:
+com.                    42254   IN      NS      i.gtld-servers.net.
+com.                    42254   IN      NS      f.gtld-servers.net.
+com.                    42254   IN      NS      e.gtld-servers.net.
+com.                    42254   IN      NS      m.gtld-servers.net.
+com.                    42254   IN      NS      j.gtld-servers.net.
+com.                    42254   IN      NS      a.gtld-servers.net.
+com.                    42254   IN      NS      l.gtld-servers.net.
+com.                    42254   IN      NS      g.gtld-servers.net.
+com.                    42254   IN      NS      k.gtld-servers.net.
+com.                    42254   IN      NS      h.gtld-servers.net.
+com.                    42254   IN      NS      c.gtld-servers.net.
+com.                    42254   IN      NS      b.gtld-servers.net.
+com.                    42254   IN      NS      d.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40901   IN      A       192.5.6.30
+a.gtld-servers.net.     40901   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40901   IN      A       192.33.14.30
+b.gtld-servers.net.     40901   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40901   IN      A       192.26.92.30
+c.gtld-servers.net.     40901   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40901   IN      A       192.31.80.30
+d.gtld-servers.net.     40901   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40901   IN      A       192.12.94.30
+e.gtld-servers.net.     40901   IN      AAAA    2001:502:1ca1::30"
+168,shein.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27616
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;shein.com.                     IN      A
+;; ANSWER SECTION:
+shein.com.              3598    IN      A       35.162.69.199
+shein.com.              3598    IN      A       52.32.174.111
+;; AUTHORITY SECTION:
+com.                    42253   IN      NS      d.gtld-servers.net.
+com.                    42253   IN      NS      a.gtld-servers.net.
+com.                    42253   IN      NS      i.gtld-servers.net.
+com.                    42253   IN      NS      f.gtld-servers.net.
+com.                    42253   IN      NS      l.gtld-servers.net.
+com.                    42253   IN      NS      j.gtld-servers.net.
+com.                    42253   IN      NS      e.gtld-servers.net.
+com.                    42253   IN      NS      b.gtld-servers.net.
+com.                    42253   IN      NS      g.gtld-servers.net.
+com.                    42253   IN      NS      h.gtld-servers.net.
+com.                    42253   IN      NS      c.gtld-servers.net.
+com.                    42253   IN      NS      m.gtld-servers.net.
+com.                    42253   IN      NS      k.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40900   IN      A       192.5.6.30
+a.gtld-servers.net.     40900   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40900   IN      A       192.33.14.30
+b.gtld-servers.net.     40900   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40900   IN      A       192.26.92.30
+c.gtld-servers.net.     40900   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40900   IN      A       192.31.80.30
+d.gtld-servers.net.     40900   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40900   IN      A       192.12.94.30
+e.gtld-servers.net.     40900   IN      AAAA    2001:502:1ca1::30"
+169,shein.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 27616
+;; flags: qr rd ra; QUERY: 1, ANSWER: 2, AUTHORITY: 13, ADDITIONAL: 10
+;; QUESTION SECTION:
+;shein.com.                     IN      A
+;; ANSWER SECTION:
+shein.com.              3597    IN      A       35.162.69.199
+shein.com.              3597    IN      A       52.32.174.111
+;; AUTHORITY SECTION:
+com.                    42252   IN      NS      m.gtld-servers.net.
+com.                    42252   IN      NS      k.gtld-servers.net.
+com.                    42252   IN      NS      h.gtld-servers.net.
+com.                    42252   IN      NS      l.gtld-servers.net.
+com.                    42252   IN      NS      g.gtld-servers.net.
+com.                    42252   IN      NS      f.gtld-servers.net.
+com.                    42252   IN      NS      j.gtld-servers.net.
+com.                    42252   IN      NS      e.gtld-servers.net.
+com.                    42252   IN      NS      i.gtld-servers.net.
+com.                    42252   IN      NS      a.gtld-servers.net.
+com.                    42252   IN      NS      b.gtld-servers.net.
+com.                    42252   IN      NS      d.gtld-servers.net.
+com.                    42252   IN      NS      c.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40899   IN      A       192.5.6.30
+a.gtld-servers.net.     40899   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40899   IN      A       192.33.14.30
+b.gtld-servers.net.     40899   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40899   IN      A       192.26.92.30
+c.gtld-servers.net.     40899   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40899   IN      A       192.31.80.30
+d.gtld-servers.net.     40899   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40899   IN      A       192.12.94.30
+e.gtld-servers.net.     40899   IN      AAAA    2001:502:1ca1::30"
+170,amazon.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15493
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;amazon.com.                    IN      A
+;; ANSWER SECTION:
+amazon.com.             33      IN      A       205.251.242.103
+amazon.com.             33      IN      A       176.32.98.166
+amazon.com.             33      IN      A       176.32.103.205"
+171,amazon.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15493
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;amazon.com.                    IN      A
+;; ANSWER SECTION:
+amazon.com.             56      IN      A       176.32.98.166
+amazon.com.             56      IN      A       176.32.103.205
+amazon.com.             56      IN      A       205.251.242.103"
+172,amazon.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15493
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;amazon.com.                    IN      A
+;; ANSWER SECTION:
+amazon.com.             12      IN      A       176.32.103.205
+amazon.com.             12      IN      A       176.32.98.166
+amazon.com.             12      IN      A       205.251.242.103
+;; AUTHORITY SECTION:
+com.                    42247   IN      NS      k.gtld-servers.net.
+com.                    42247   IN      NS      e.gtld-servers.net.
+com.                    42247   IN      NS      h.gtld-servers.net.
+com.                    42247   IN      NS      l.gtld-servers.net.
+com.                    42247   IN      NS      m.gtld-servers.net.
+com.                    42247   IN      NS      j.gtld-servers.net.
+com.                    42247   IN      NS      g.gtld-servers.net.
+com.                    42247   IN      NS      i.gtld-servers.net.
+com.                    42247   IN      NS      f.gtld-servers.net.
+com.                    42247   IN      NS      a.gtld-servers.net.
+com.                    42247   IN      NS      c.gtld-servers.net.
+com.                    42247   IN      NS      b.gtld-servers.net.
+com.                    42247   IN      NS      d.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40894   IN      A       192.5.6.30
+a.gtld-servers.net.     40894   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40894   IN      A       192.33.14.30
+b.gtld-servers.net.     40894   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40894   IN      A       192.26.92.30
+c.gtld-servers.net.     40894   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40894   IN      A       192.31.80.30
+d.gtld-servers.net.     40894   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40894   IN      A       192.12.94.30"
+173,amazon.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15493
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;amazon.com.                    IN      A
+;; ANSWER SECTION:
+amazon.com.             11      IN      A       205.251.242.103
+amazon.com.             11      IN      A       176.32.103.205
+amazon.com.             11      IN      A       176.32.98.166
+;; AUTHORITY SECTION:
+com.                    42246   IN      NS      a.gtld-servers.net.
+com.                    42246   IN      NS      d.gtld-servers.net.
+com.                    42246   IN      NS      m.gtld-servers.net.
+com.                    42246   IN      NS      h.gtld-servers.net.
+com.                    42246   IN      NS      j.gtld-servers.net.
+com.                    42246   IN      NS      b.gtld-servers.net.
+com.                    42246   IN      NS      g.gtld-servers.net.
+com.                    42246   IN      NS      l.gtld-servers.net.
+com.                    42246   IN      NS      k.gtld-servers.net.
+com.                    42246   IN      NS      i.gtld-servers.net.
+com.                    42246   IN      NS      e.gtld-servers.net.
+com.                    42246   IN      NS      f.gtld-servers.net.
+com.                    42246   IN      NS      c.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40893   IN      A       192.5.6.30
+a.gtld-servers.net.     40893   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40893   IN      A       192.33.14.30
+b.gtld-servers.net.     40893   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40893   IN      A       192.26.92.30
+c.gtld-servers.net.     40893   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40893   IN      A       192.31.80.30
+d.gtld-servers.net.     40893   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40893   IN      A       192.12.94.30"
+174,amazon.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 15493
+;; flags: qr rd ra; QUERY: 1, ANSWER: 3, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;amazon.com.                    IN      A
+;; ANSWER SECTION:
+amazon.com.             11      IN      A       176.32.98.166
+amazon.com.             11      IN      A       176.32.103.205
+amazon.com.             11      IN      A       205.251.242.103
+;; AUTHORITY SECTION:
+com.                    42246   IN      NS      g.gtld-servers.net.
+com.                    42246   IN      NS      b.gtld-servers.net.
+com.                    42246   IN      NS      c.gtld-servers.net.
+com.                    42246   IN      NS      j.gtld-servers.net.
+com.                    42246   IN      NS      e.gtld-servers.net.
+com.                    42246   IN      NS      l.gtld-servers.net.
+com.                    42246   IN      NS      i.gtld-servers.net.
+com.                    42246   IN      NS      d.gtld-servers.net.
+com.                    42246   IN      NS      a.gtld-servers.net.
+com.                    42246   IN      NS      k.gtld-servers.net.
+com.                    42246   IN      NS      m.gtld-servers.net.
+com.                    42246   IN      NS      h.gtld-servers.net.
+com.                    42246   IN      NS      f.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40893   IN      A       192.5.6.30
+a.gtld-servers.net.     40893   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40893   IN      A       192.33.14.30
+b.gtld-servers.net.     40893   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40893   IN      A       192.26.92.30
+c.gtld-servers.net.     40893   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40893   IN      A       192.31.80.30
+d.gtld-servers.net.     40893   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40893   IN      A       192.12.94.30"
+175,flipkart.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45433
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;flipkart.com.                  IN      A
+;; ANSWER SECTION:
+flipkart.com.           50      IN      A       163.53.78.128"
+176,flipkart.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45433
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;flipkart.com.                  IN      A
+;; ANSWER SECTION:
+flipkart.com.           59      IN      A       163.53.78.128"
+177,flipkart.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45433
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;flipkart.com.                  IN      A
+;; ANSWER SECTION:
+flipkart.com.           58      IN      A       163.53.78.128
+;; AUTHORITY SECTION:
+com.                    42241   IN      NS      m.gtld-servers.net.
+com.                    42241   IN      NS      f.gtld-servers.net.
+com.                    42241   IN      NS      b.gtld-servers.net.
+com.                    42241   IN      NS      g.gtld-servers.net.
+com.                    42241   IN      NS      j.gtld-servers.net.
+com.                    42241   IN      NS      k.gtld-servers.net.
+com.                    42241   IN      NS      l.gtld-servers.net.
+com.                    42241   IN      NS      e.gtld-servers.net.
+com.                    42241   IN      NS      i.gtld-servers.net.
+com.                    42241   IN      NS      a.gtld-servers.net.
+com.                    42241   IN      NS      h.gtld-servers.net.
+com.                    42241   IN      NS      d.gtld-servers.net.
+com.                    42241   IN      NS      c.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40888   IN      A       192.5.6.30
+a.gtld-servers.net.     40888   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40888   IN      A       192.33.14.30
+b.gtld-servers.net.     40888   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40888   IN      A       192.26.92.30
+c.gtld-servers.net.     40888   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40888   IN      A       192.31.80.30
+d.gtld-servers.net.     40888   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40888   IN      A       192.12.94.30
+e.gtld-servers.net.     40888   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40888   IN      A       192.35.51.30"
+178,flipkart.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45433
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;flipkart.com.                  IN      A
+;; ANSWER SECTION:
+flipkart.com.           58      IN      A       163.53.78.128
+;; AUTHORITY SECTION:
+com.                    42241   IN      NS      i.gtld-servers.net.
+com.                    42241   IN      NS      g.gtld-servers.net.
+com.                    42241   IN      NS      f.gtld-servers.net.
+com.                    42241   IN      NS      a.gtld-servers.net.
+com.                    42241   IN      NS      e.gtld-servers.net.
+com.                    42241   IN      NS      c.gtld-servers.net.
+com.                    42241   IN      NS      j.gtld-servers.net.
+com.                    42241   IN      NS      h.gtld-servers.net.
+com.                    42241   IN      NS      m.gtld-servers.net.
+com.                    42241   IN      NS      k.gtld-servers.net.
+com.                    42241   IN      NS      b.gtld-servers.net.
+com.                    42241   IN      NS      d.gtld-servers.net.
+com.                    42241   IN      NS      l.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40888   IN      A       192.5.6.30
+a.gtld-servers.net.     40888   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40888   IN      A       192.33.14.30
+b.gtld-servers.net.     40888   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40888   IN      A       192.26.92.30
+c.gtld-servers.net.     40888   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40888   IN      A       192.31.80.30
+d.gtld-servers.net.     40888   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40888   IN      A       192.12.94.30
+e.gtld-servers.net.     40888   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40888   IN      A       192.35.51.30"
+179,flipkart.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 45433
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;flipkart.com.                  IN      A
+;; ANSWER SECTION:
+flipkart.com.           57      IN      A       163.53.78.128
+;; AUTHORITY SECTION:
+com.                    42240   IN      NS      h.gtld-servers.net.
+com.                    42240   IN      NS      i.gtld-servers.net.
+com.                    42240   IN      NS      g.gtld-servers.net.
+com.                    42240   IN      NS      j.gtld-servers.net.
+com.                    42240   IN      NS      c.gtld-servers.net.
+com.                    42240   IN      NS      k.gtld-servers.net.
+com.                    42240   IN      NS      d.gtld-servers.net.
+com.                    42240   IN      NS      b.gtld-servers.net.
+com.                    42240   IN      NS      f.gtld-servers.net.
+com.                    42240   IN      NS      m.gtld-servers.net.
+com.                    42240   IN      NS      e.gtld-servers.net.
+com.                    42240   IN      NS      a.gtld-servers.net.
+com.                    42240   IN      NS      l.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40887   IN      A       192.5.6.30
+a.gtld-servers.net.     40887   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40887   IN      A       192.33.14.30
+b.gtld-servers.net.     40887   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40887   IN      A       192.26.92.30
+c.gtld-servers.net.     40887   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40887   IN      A       192.31.80.30
+d.gtld-servers.net.     40887   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40887   IN      A       192.12.94.30
+e.gtld-servers.net.     40887   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40887   IN      A       192.35.51.30"
+180,etsy.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36651
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;etsy.com.                      IN      A
+;; ANSWER SECTION:
+etsy.com.               1707    IN      A       151.101.193.224
+etsy.com.               1707    IN      A       151.101.65.224
+etsy.com.               1707    IN      A       151.101.129.224
+etsy.com.               1707    IN      A       151.101.1.224"
+181,etsy.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36651
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;etsy.com.                      IN      A
+;; ANSWER SECTION:
+etsy.com.               3380    IN      A       151.101.1.224
+etsy.com.               3380    IN      A       151.101.65.224
+etsy.com.               3380    IN      A       151.101.129.224
+etsy.com.               3380    IN      A       151.101.193.224"
+182,etsy.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36651
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;etsy.com.                      IN      A
+;; ANSWER SECTION:
+etsy.com.               3471    IN      A       151.101.65.224
+etsy.com.               3471    IN      A       151.101.193.224
+etsy.com.               3471    IN      A       151.101.129.224
+etsy.com.               3471    IN      A       151.101.1.224
+;; AUTHORITY SECTION:
+com.                    42235   IN      NS      i.gtld-servers.net.
+com.                    42235   IN      NS      e.gtld-servers.net.
+com.                    42235   IN      NS      b.gtld-servers.net.
+com.                    42235   IN      NS      k.gtld-servers.net.
+com.                    42235   IN      NS      j.gtld-servers.net.
+com.                    42235   IN      NS      h.gtld-servers.net.
+com.                    42235   IN      NS      f.gtld-servers.net.
+com.                    42235   IN      NS      d.gtld-servers.net.
+com.                    42235   IN      NS      m.gtld-servers.net.
+com.                    42235   IN      NS      l.gtld-servers.net.
+com.                    42235   IN      NS      c.gtld-servers.net.
+com.                    42235   IN      NS      a.gtld-servers.net.
+com.                    42235   IN      NS      g.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40882   IN      A       192.5.6.30
+a.gtld-servers.net.     40882   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40882   IN      A       192.33.14.30
+b.gtld-servers.net.     40882   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40882   IN      A       192.26.92.30
+c.gtld-servers.net.     40882   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40882   IN      A       192.31.80.30
+d.gtld-servers.net.     40882   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40882   IN      A       192.12.94.30"
+183,etsy.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36651
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;etsy.com.                      IN      A
+;; ANSWER SECTION:
+etsy.com.               3471    IN      A       151.101.193.224
+etsy.com.               3471    IN      A       151.101.65.224
+etsy.com.               3471    IN      A       151.101.129.224
+etsy.com.               3471    IN      A       151.101.1.224
+;; AUTHORITY SECTION:
+com.                    42235   IN      NS      g.gtld-servers.net.
+com.                    42235   IN      NS      a.gtld-servers.net.
+com.                    42235   IN      NS      d.gtld-servers.net.
+com.                    42235   IN      NS      c.gtld-servers.net.
+com.                    42235   IN      NS      h.gtld-servers.net.
+com.                    42235   IN      NS      e.gtld-servers.net.
+com.                    42235   IN      NS      m.gtld-servers.net.
+com.                    42235   IN      NS      f.gtld-servers.net.
+com.                    42235   IN      NS      b.gtld-servers.net.
+com.                    42235   IN      NS      i.gtld-servers.net.
+com.                    42235   IN      NS      l.gtld-servers.net.
+com.                    42235   IN      NS      j.gtld-servers.net.
+com.                    42235   IN      NS      k.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40882   IN      A       192.5.6.30
+a.gtld-servers.net.     40882   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40882   IN      A       192.33.14.30
+b.gtld-servers.net.     40882   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40882   IN      A       192.26.92.30
+c.gtld-servers.net.     40882   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40882   IN      A       192.31.80.30
+d.gtld-servers.net.     40882   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40882   IN      A       192.12.94.30"
+184,etsy.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36651
+;; flags: qr rd ra; QUERY: 1, ANSWER: 4, AUTHORITY: 13, ADDITIONAL: 9
+;; QUESTION SECTION:
+;etsy.com.                      IN      A
+;; ANSWER SECTION:
+etsy.com.               3470    IN      A       151.101.129.224
+etsy.com.               3470    IN      A       151.101.1.224
+etsy.com.               3470    IN      A       151.101.65.224
+etsy.com.               3470    IN      A       151.101.193.224
+;; AUTHORITY SECTION:
+com.                    42234   IN      NS      c.gtld-servers.net.
+com.                    42234   IN      NS      i.gtld-servers.net.
+com.                    42234   IN      NS      e.gtld-servers.net.
+com.                    42234   IN      NS      a.gtld-servers.net.
+com.                    42234   IN      NS      b.gtld-servers.net.
+com.                    42234   IN      NS      m.gtld-servers.net.
+com.                    42234   IN      NS      f.gtld-servers.net.
+com.                    42234   IN      NS      h.gtld-servers.net.
+com.                    42234   IN      NS      j.gtld-servers.net.
+com.                    42234   IN      NS      k.gtld-servers.net.
+com.                    42234   IN      NS      d.gtld-servers.net.
+com.                    42234   IN      NS      l.gtld-servers.net.
+com.                    42234   IN      NS      g.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40881   IN      A       192.5.6.30
+a.gtld-servers.net.     40881   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40881   IN      A       192.33.14.30
+b.gtld-servers.net.     40881   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40881   IN      A       192.26.92.30
+c.gtld-servers.net.     40881   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40881   IN      A       192.31.80.30
+d.gtld-servers.net.     40881   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40881   IN      A       192.12.94.30"
+185,minted.com,Cloudflare,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63161
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;minted.com.                    IN      A
+;; ANSWER SECTION:
+minted.com.             300     IN      A       151.101.1.178"
+186,minted.com,Google,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63161
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+;; QUESTION SECTION:
+;minted.com.                    IN      A
+;; ANSWER SECTION:
+minted.com.             299     IN      A       151.101.1.178"
+187,minted.com,Shanghai,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63161
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;minted.com.                    IN      A
+;; ANSWER SECTION:
+minted.com.             299     IN      A       151.101.1.178
+;; AUTHORITY SECTION:
+com.                    42228   IN      NS      h.gtld-servers.net.
+com.                    42228   IN      NS      e.gtld-servers.net.
+com.                    42228   IN      NS      g.gtld-servers.net.
+com.                    42228   IN      NS      m.gtld-servers.net.
+com.                    42228   IN      NS      f.gtld-servers.net.
+com.                    42228   IN      NS      d.gtld-servers.net.
+com.                    42228   IN      NS      l.gtld-servers.net.
+com.                    42228   IN      NS      j.gtld-servers.net.
+com.                    42228   IN      NS      k.gtld-servers.net.
+com.                    42228   IN      NS      b.gtld-servers.net.
+com.                    42228   IN      NS      c.gtld-servers.net.
+com.                    42228   IN      NS      i.gtld-servers.net.
+com.                    42228   IN      NS      a.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40875   IN      A       192.5.6.30
+a.gtld-servers.net.     40875   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40875   IN      A       192.33.14.30
+b.gtld-servers.net.     40875   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40875   IN      A       192.26.92.30
+c.gtld-servers.net.     40875   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40875   IN      A       192.31.80.30
+d.gtld-servers.net.     40875   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40875   IN      A       192.12.94.30
+e.gtld-servers.net.     40875   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40875   IN      A       192.35.51.30"
+188,minted.com,Shenzen,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63161
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;minted.com.                    IN      A
+;; ANSWER SECTION:
+minted.com.             296     IN      A       151.101.1.178
+;; AUTHORITY SECTION:
+com.                    42225   IN      NS      k.gtld-servers.net.
+com.                    42225   IN      NS      h.gtld-servers.net.
+com.                    42225   IN      NS      m.gtld-servers.net.
+com.                    42225   IN      NS      a.gtld-servers.net.
+com.                    42225   IN      NS      i.gtld-servers.net.
+com.                    42225   IN      NS      l.gtld-servers.net.
+com.                    42225   IN      NS      d.gtld-servers.net.
+com.                    42225   IN      NS      g.gtld-servers.net.
+com.                    42225   IN      NS      j.gtld-servers.net.
+com.                    42225   IN      NS      c.gtld-servers.net.
+com.                    42225   IN      NS      b.gtld-servers.net.
+com.                    42225   IN      NS      e.gtld-servers.net.
+com.                    42225   IN      NS      f.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40872   IN      A       192.5.6.30
+a.gtld-servers.net.     40872   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40872   IN      A       192.33.14.30
+b.gtld-servers.net.     40872   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40872   IN      A       192.26.92.30
+c.gtld-servers.net.     40872   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40872   IN      A       192.31.80.30
+d.gtld-servers.net.     40872   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40872   IN      A       192.12.94.30
+e.gtld-servers.net.     40872   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40872   IN      A       192.35.51.30"
+189,minted.com,Alibaba,";; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 63161
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 13, ADDITIONAL: 11
+;; QUESTION SECTION:
+;minted.com.                    IN      A
+;; ANSWER SECTION:
+minted.com.             295     IN      A       151.101.1.178
+;; AUTHORITY SECTION:
+com.                    42224   IN      NS      j.gtld-servers.net.
+com.                    42224   IN      NS      f.gtld-servers.net.
+com.                    42224   IN      NS      k.gtld-servers.net.
+com.                    42224   IN      NS      c.gtld-servers.net.
+com.                    42224   IN      NS      m.gtld-servers.net.
+com.                    42224   IN      NS      h.gtld-servers.net.
+com.                    42224   IN      NS      g.gtld-servers.net.
+com.                    42224   IN      NS      i.gtld-servers.net.
+com.                    42224   IN      NS      b.gtld-servers.net.
+com.                    42224   IN      NS      d.gtld-servers.net.
+com.                    42224   IN      NS      e.gtld-servers.net.
+com.                    42224   IN      NS      a.gtld-servers.net.
+com.                    42224   IN      NS      l.gtld-servers.net.
+;; ADDITIONAL SECTION:
+a.gtld-servers.net.     40871   IN      A       192.5.6.30
+a.gtld-servers.net.     40871   IN      AAAA    2001:503:a83e::2:30
+b.gtld-servers.net.     40871   IN      A       192.33.14.30
+b.gtld-servers.net.     40871   IN      AAAA    2001:503:231d::2:30
+c.gtld-servers.net.     40871   IN      A       192.26.92.30
+c.gtld-servers.net.     40871   IN      AAAA    2001:503:83eb::30
+d.gtld-servers.net.     40871   IN      A       192.31.80.30
+d.gtld-servers.net.     40871   IN      AAAA    2001:500:856e::30
+e.gtld-servers.net.     40871   IN      A       192.12.94.30
+e.gtld-servers.net.     40871   IN      AAAA    2001:502:1ca1::30
+f.gtld-servers.net.     40871   IN      A       192.35.51.30"
