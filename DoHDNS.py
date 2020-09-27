@@ -80,5 +80,5 @@ for domain in domains:
                 print("\nTime taken: 0")
                 s = pd.Series([0], index = ["Time"])
                 data = data.append(s, ignore_index=True)
-        data.to_csv("{}+{}+{}.csv".format(domain, mode, resolver))
+        data.to_csv("CSVs/{}+{}+{}.csv".format(domain, mode, resolver))
 
